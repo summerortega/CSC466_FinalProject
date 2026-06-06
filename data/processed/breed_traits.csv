@@ -1,0 +1,41 @@
+Breed,Good With Young Children,Good With Other Dogs,Shedding Level,Coat Grooming Frequency,Drooling Level,Coat Type,Coat Length,Openness To Strangers,Playfulness Level,Watchdog/Protective Nature,Adaptability Level,Trainability Level,Energy Level,Barking Level,Mental Stimulation Needs
+Akita,3,1,3,3,1,Double,Medium,2,3,5,3,3,4,2,3
+Anatolian Shepherd Dog,3,3,3,2,1,Smooth,Short,1,3,5,3,2,3,3,3
+Australian Cattle Dog,3,3,3,1,1,Smooth; Double,Short,3,3,4,3,4,5,1,4
+Azawakh,3,3,2,2,1,Smooth,Short,1,3,3,3,2,3,1,3
+Barbet,3,3,1,5,1,Curly; Wavy,Medium; Long,3,3,3,3,4,3,3,3
+Basenji,3,3,2,1,1,Smooth,Short,3,3,3,3,2,4,1,4
+Basset Hound,5,5,2,3,4,Smooth,Short,3,3,3,3,3,2,4,3
+Bergamasco Sheepdog,3,3,1,1,2,Corded,Long,3,3,4,3,3,3,1,3
+Bernese Mountain Dog,5,5,5,3,3,Double,Medium,4,4,3,4,4,4,3,3
+Bichon Frise,5,5,1,5,1,Double; Curly,Long,5,4,2,4,4,4,3,3
+Bloodhound,3,3,3,2,5,Smooth,Short,3,3,2,3,4,3,5,3
+Briard,3,3,1,4,2,Double; Wavy,Long,3,3,4,3,3,3,1,3
+Bull Terrier,3,1,3,2,1,Smooth,Short,4,4,3,3,3,4,3,4
+Bullmastiff,3,3,3,1,3,Smooth,Short,3,3,5,3,4,4,1,4
+Chow Chow,3,2,3,3,3,Smooth; Rough; Double,Medium,2,3,5,3,3,3,1,3
+Clumber Spaniel,3,3,3,2,4,Wavy; Silky,Medium,4,3,3,4,4,3,1,3
+Coton de Tulear,5,5,2,4,1,Double; Wavy,Long,5,4,3,4,4,3,1,3
+Dogue de Bordeaux,3,3,4,1,5,Smooth,Short,3,3,5,4,4,3,3,4
+French Bulldog,5,4,3,1,3,Smooth,Short,5,5,3,5,4,3,1,3
+Golden Retriever,5,5,4,2,2,Double,Medium,5,4,3,5,5,3,1,4
+Gordon Setter,3,3,3,2,4,Double,Medium,3,3,4,4,5,5,3,4
+Great Dane,3,3,3,1,4,Smooth,Short,3,4,5,4,3,4,3,4
+Irish Terrier,5,1,2,1,1,Wiry; Double,Medium,3,3,5,4,3,3,3,4
+Irish Water Spaniel,3,3,1,3,2,Curly,Medium,3,5,3,4,5,3,1,4
+Irish Wolfhound,3,4,3,2,2,Wiry,Medium,3,3,5,3,3,3,1,3
+Mastiff,5,3,3,1,4,Double,Short,3,3,5,4,3,3,1,3
+Neapolitan Mastiff,3,3,3,2,5,Smooth,Short,3,2,5,3,3,2,1,3
+Newfoundland,5,5,3,2,5,Double,Medium,5,3,5,4,3,3,1,3
+Pekingese,3,3,3,3,1,Double,Long,3,4,4,4,3,3,1,3
+Pug,5,4,4,2,1,Smooth,Short,5,5,3,5,4,3,1,3
+Puli,3,3,1,5,2,Corded; Double,Long,3,3,5,4,5,3,3,5
+Rottweiler,3,3,3,1,3,Smooth,Short,3,4,5,4,5,3,1,5
+Saint Bernard,5,3,3,2,5,Smooth; Rough; Double,Short,3,3,5,4,3,3,1,3
+Saluki,3,3,2,1,1,Smooth,Short,3,3,1,3,3,4,3,5
+Scottish Deerhound,3,5,3,1,1,Wiry; Double,Medium,3,3,3,3,3,3,1,3
+Siberian Husky,5,5,4,2,1,Double,Medium,5,5,1,4,3,5,5,4
+Tibetan Mastiff,3,3,4,3,3,Double,Medium,1,3,5,3,3,3,3,4
+Welsh Springer Spaniel,5,4,3,2,2,Double,Medium,1,3,3,4,5,4,3,4
+Whippet,5,5,2,1,1,Smooth,Short,3,4,3,3,3,4,1,4
+Yorkshire Terrier,5,3,1,5,1,Silky,Long,5,4,5,5,4,4,4,4
