@@ -1,22 +1,22 @@
 Breed,Average Rank,Actual Popularity Tier,Predicted Popularity Tier,Correct
 Doberman Pinscher,15.5,High Popularity,Medium Popularity,False
 Dogue de Bordeaux,73.2,Medium Popularity,Medium Popularity,True
-Sussex Spaniel,174.3,Low Popularity,Low Popularity,True
+Sussex Spaniel,174.3,Low Popularity,Medium Popularity,False
 Australian Cattle Dog,53.1,Medium Popularity,Low Popularity,False
 Maltese,34.8,High Popularity,Low Popularity,False
 Silky Terrier,108.5,Medium Popularity,Low Popularity,False
-Yorkshire Terrier,10.4,High Popularity,High Popularity,True
-Chinese Shar-Pei,65.5,Medium Popularity,Medium Popularity,True
+Yorkshire Terrier,10.4,High Popularity,Medium Popularity,False
+Chinese Shar-Pei,65.5,Medium Popularity,Low Popularity,False
 Lakeland Terrier,145.5,Low Popularity,Low Popularity,True
 Akita,50.6,Medium Popularity,Medium Popularity,True
 Irish Wolfhound,75.8,Medium Popularity,Low Popularity,False
 Bloodhound,51.2,Medium Popularity,Low Popularity,False
-English Springer Spaniel,26.9,High Popularity,Medium Popularity,False
+English Springer Spaniel,26.9,High Popularity,Low Popularity,False
 Greater Swiss Mountain Dog,77.7,Medium Popularity,Medium Popularity,True
-Petit Basset Griffon Vendéen,154.0,Low Popularity,Low Popularity,True
+Petit Basset Griffon Vendéen,154.0,Low Popularity,Medium Popularity,False
 Greyhound,142.8,Low Popularity,Low Popularity,True
-American Eskimo Dog,120.4,Medium Popularity,Medium Popularity,True
-Boston Terrier,22.2,High Popularity,Low Popularity,False
+American Eskimo Dog,120.4,Medium Popularity,Low Popularity,False
+Boston Terrier,22.2,High Popularity,Medium Popularity,False
 Pug,32.9,High Popularity,High Popularity,True
 Harrier,186.6,Low Popularity,Low Popularity,True
 German Wirehaired Pointer,63.2,Medium Popularity,Low Popularity,False
@@ -27,16 +27,16 @@ Pumi,157.9,Low Popularity,Low Popularity,True
 Manchester Terrier,130.2,Low Popularity,Low Popularity,True
 Azawakh,192.4,Low Popularity,Low Popularity,True
 Neapolitan Mastiff,110.1,Medium Popularity,Medium Popularity,True
-Norfolk Terrier,130.8,Low Popularity,Medium Popularity,False
+Norfolk Terrier,130.8,Low Popularity,Low Popularity,True
 Welsh Springer Spaniel,130.2,Low Popularity,Low Popularity,True
 Chihuahua,30.2,High Popularity,Low Popularity,False
-Bulldog,5.8,High Popularity,Low Popularity,False
-Bearded Collie,130.3,Low Popularity,High Popularity,False
-Shiba Inu,44.3,High Popularity,Medium Popularity,False
+Bulldog,5.8,High Popularity,Medium Popularity,False
+Bearded Collie,130.3,Low Popularity,Low Popularity,True
+Shiba Inu,44.3,High Popularity,Low Popularity,False
 Redbone Coonhound,144.5,Low Popularity,Low Popularity,True
 American English Coonhound,173.1,Low Popularity,Low Popularity,True
-Otterhound,180.2,Low Popularity,Medium Popularity,False
+Otterhound,180.2,Low Popularity,Low Popularity,True
 Black Russian Terrier,124.6,Medium Popularity,Medium Popularity,True
-Beauceron,125.5,Low Popularity,Medium Popularity,False
+Beauceron,125.5,Low Popularity,Low Popularity,True
 Schipperke,110.4,Medium Popularity,Low Popularity,False
 Leonberger,99.0,Medium Popularity,Medium Popularity,True
