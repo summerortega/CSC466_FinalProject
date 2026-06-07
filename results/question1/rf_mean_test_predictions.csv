@@ -1,0 +1,42 @@
+Breed,Actual Popularity Tier,Predicted Popularity Tier,Correct
+Doberman Pinscher,High Popularity,Medium Popularity,False
+Dogue de Bordeaux,Medium Popularity,Medium Popularity,True
+Sussex Spaniel,Low Popularity,Medium Popularity,False
+Australian Cattle Dog,Medium Popularity,Low Popularity,False
+Maltese,High Popularity,Low Popularity,False
+Silky Terrier,Medium Popularity,Low Popularity,False
+Yorkshire Terrier,High Popularity,Medium Popularity,False
+Chinese Shar-Pei,Medium Popularity,Low Popularity,False
+Lakeland Terrier,Low Popularity,Low Popularity,True
+Akita,Medium Popularity,Medium Popularity,True
+Irish Wolfhound,Medium Popularity,Low Popularity,False
+Bloodhound,Medium Popularity,Low Popularity,False
+English Springer Spaniel,High Popularity,Low Popularity,False
+Greater Swiss Mountain Dog,Medium Popularity,Medium Popularity,True
+Petit Basset Griffon Vendéen,Low Popularity,Medium Popularity,False
+Greyhound,Low Popularity,Low Popularity,True
+American Eskimo Dog,Medium Popularity,Low Popularity,False
+Boston Terrier,High Popularity,Medium Popularity,False
+Pug,High Popularity,High Popularity,True
+Harrier,Low Popularity,Low Popularity,True
+German Wirehaired Pointer,Medium Popularity,Low Popularity,False
+Afghan Hound,Medium Popularity,Low Popularity,False
+German Shepherd Dog,High Popularity,High Popularity,True
+American Water Spaniel,Low Popularity,Low Popularity,True
+Pumi,Low Popularity,Low Popularity,True
+Manchester Terrier,Low Popularity,Low Popularity,True
+Azawakh,Low Popularity,Low Popularity,True
+Neapolitan Mastiff,Medium Popularity,Medium Popularity,True
+Norfolk Terrier,Low Popularity,Low Popularity,True
+Welsh Springer Spaniel,Low Popularity,Low Popularity,True
+Chihuahua,High Popularity,Low Popularity,False
+Bulldog,High Popularity,Medium Popularity,False
+Bearded Collie,Low Popularity,Low Popularity,True
+Shiba Inu,High Popularity,Low Popularity,False
+Redbone Coonhound,Low Popularity,Low Popularity,True
+American English Coonhound,Low Popularity,Low Popularity,True
+Otterhound,Low Popularity,Low Popularity,True
+Black Russian Terrier,Medium Popularity,Medium Popularity,True
+Beauceron,Low Popularity,Low Popularity,True
+Schipperke,Medium Popularity,Low Popularity,False
+Leonberger,Medium Popularity,Medium Popularity,True
