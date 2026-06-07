@@ -1,0 +1,204 @@
+Breed,Affectionate With Family,Good With Young Children,Good With Other Dogs,Shedding Level,Coat Grooming Frequency,Drooling Level,Openness To Strangers,Playfulness Level,Watchdog/Protective Nature,Adaptability Level,Trainability Level,Energy Level,Barking Level,Mental Stimulation Needs,Average Rank,Popularity Tier,AKC Group
+0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Affenpinscher,3,3,3,3,3,1,5,3,3,4,3,3,3,3,151.23076923076923,Low Popularity,Toy Group
+Afghan Hound,3,3,3,1,4,1,3,3,3,3,1,4,3,3,108.92307692307692,Medium Popularity,Hound Group
+Airedale Terrier,3,3,3,1,3,1,3,3,5,3,3,3,3,3,60.53846153846154,Medium Popularity,Terrier Group
+Akita,3,3,1,3,3,1,2,3,5,3,3,4,2,3,50.61538461538461,Medium Popularity,Working Group
+Alaskan Malamute,3,3,3,3,3,1,3,3,4,3,5,4,3,3,64.38461538461539,Medium Popularity,Working Group
+American English Coonhound,3,3,5,2,1,1,3,3,3,3,3,4,4,3,173.07692307692307,Low Popularity,Hound Group
+American Eskimo Dog,5,5,3,3,3,1,5,3,3,4,4,4,3,3,120.38461538461539,Medium Popularity,Non-Sporting Group
+American Foxhound,3,5,5,3,1,1,3,3,3,3,3,4,5,3,187.3846153846154,Low Popularity,Hound Group
+American Hairless Terrier,5,5,3,1,1,1,3,3,3,5,5,3,3,3,122.3,Medium Popularity,Terrier Group
+American Staffordshire Terrier,5,3,3,2,1,1,4,3,5,3,3,3,3,3,83.92307692307692,Medium Popularity,Terrier Group
+American Water Spaniel,3,3,3,1,3,1,3,3,3,3,5,3,3,3,162.84615384615384,Low Popularity,Sporting Group
+Anatolian Shepherd Dog,1,3,3,3,2,1,1,3,5,3,2,3,3,3,87.92307692307692,Medium Popularity,Working Group
+Australian Cattle Dog,3,3,3,3,1,1,3,3,4,3,4,5,1,4,53.07692307692308,Medium Popularity,Herding Group
+Australian Shepherd,3,5,3,3,2,1,3,4,3,3,5,5,3,5,14.615384615384615,High Popularity,Herding Group
+Australian Terrier,4,5,3,1,2,1,3,3,4,4,4,3,3,3,140.6153846153846,Low Popularity,Terrier Group
+Azawakh,3,3,3,2,2,1,1,3,3,3,2,3,1,3,192.42857142857142,Low Popularity,Hound Group
+Barbet,4,3,3,1,5,1,3,3,3,3,4,3,3,3,134.57142857142858,Low Popularity,Sporting Group
+Basenji,3,3,3,2,1,1,3,3,3,3,2,4,1,4,86.3076923076923,Medium Popularity,Hound Group
+Basset Hound,3,5,5,2,3,4,3,3,3,3,3,2,4,3,37.30769230769231,High Popularity,Hound Group
+Beagle,3,5,5,3,2,1,3,4,2,4,3,4,4,4,6.3076923076923075,High Popularity,Hound Group
+Bearded Collie,4,5,5,3,4,1,4,4,3,4,3,4,5,3,130.30769230769232,Low Popularity,Herding Group
+Beauceron,3,3,3,4,3,1,2,3,4,3,3,5,3,3,125.46153846153847,Low Popularity,Herding Group
+Bedlington Terrier,3,3,3,1,3,1,3,3,4,3,3,4,3,3,143.23076923076923,Low Popularity,Terrier Group
+Belgian Laekenoi,3,3,3,3,2,1,3,3,4,3,5,4,3,4,194.0,Low Popularity,Herding Group
+Belgian Malinoi,3,3,3,3,2,1,3,3,4,3,5,4,3,4,42.23076923076923,High Popularity,Herding Group
+Belgian Sheepdog,3,3,3,3,2,1,3,3,4,3,5,4,3,4,123.84615384615384,Medium Popularity,Herding Group
+Belgian Tervuren,3,3,3,3,2,1,3,3,4,3,5,4,3,4,105.6923076923077,Medium Popularity,Herding Group
+Bergamasco Sheepdog,3,3,3,1,1,2,3,3,4,3,3,3,1,3,175.5,Low Popularity,Herding Group
+Berger Picard,3,3,3,3,1,1,3,3,4,3,4,4,2,4,153.5,Low Popularity,Herding Group
+Bernese Mountain Dog,5,5,5,5,3,3,4,4,3,4,4,4,3,3,24.153846153846153,High Popularity,Working Group
+Bichon Frise,5,5,5,1,5,1,5,4,2,4,4,4,3,3,45.07692307692308,High Popularity,Non-Sporting Group
+Biewer Terrier,5,3,5,1,3,1,3,4,2,3,3,3,3,3,76.2,Medium Popularity,Toy Group
+Black Russian Terrier,3,3,3,3,4,3,2,3,5,4,4,4,3,4,124.61538461538461,Medium Popularity,Working Group
+Black and Tan Coonhound,4,5,5,3,2,3,3,3,2,4,3,3,4,3,133.92307692307693,Low Popularity,Hound Group
+Bloodhound,4,3,3,3,2,5,3,3,2,3,4,3,5,3,51.15384615384615,Medium Popularity,Hound Group
+Bluetick Coonhound,3,3,5,3,2,2,3,3,2,3,4,4,4,3,132.46153846153845,Low Popularity,Hound Group
+Boerboel,5,4,2,3,2,3,3,3,5,3,4,3,3,4,116.91666666666667,Medium Popularity,Working Group
+Border Collie,5,3,3,3,3,1,4,5,3,5,5,5,4,5,34.30769230769231,High Popularity,Herding Group
+Border Terrier,4,5,3,2,2,1,4,4,3,4,4,3,3,3,89.61538461538461,Medium Popularity,Terrier Group
+Borzoi,3,3,3,3,2,1,3,3,3,3,2,4,2,4,100.76923076923077,Medium Popularity,Hound Group
+Boston Terrier,5,5,4,2,2,1,5,5,3,3,4,4,2,3,22.23076923076923,High Popularity,Non-Sporting Group
+Bouvier des Flandre,3,3,3,3,4,2,3,3,4,3,4,4,3,3,91.07692307692308,Medium Popularity,Herding Group
+Boxer,4,5,3,2,2,3,4,4,4,3,4,4,3,4,12.923076923076923,High Popularity,Working Group
+Boykin Spaniel,3,5,5,3,3,1,3,4,3,4,4,4,3,3,92.07692307692308,Medium Popularity,Sporting Group
+Bracco Italiano,3,4,4,2,1,2,3,3,3,3,5,4,2,3,140.0,Low Popularity,Sporting Group
+Briard,3,3,3,1,4,2,3,3,4,3,3,3,1,3,141.15384615384616,Low Popularity,Herding Group
+Brittany,3,4,4,3,3,1,3,4,3,3,5,5,3,4,27.615384615384617,High Popularity,Sporting Group
+Brussels Griffon,4,3,3,3,3,1,4,4,3,4,4,3,4,3,92.15384615384616,Medium Popularity,Toy Group
+Bull Terrier,4,3,1,3,2,1,4,4,3,3,3,4,3,4,62.53846153846154,Medium Popularity,Terrier Group
+Bulldog,4,3,3,3,3,3,4,4,3,3,4,3,2,3,5.769230769230769,High Popularity,Non-Sporting Group
+Bullmastiff,4,3,3,3,1,3,3,3,5,3,4,4,1,4,54.46153846153846,Medium Popularity,Working Group
+Cairn Terrier,4,3,3,2,2,1,3,4,4,3,3,3,4,3,69.61538461538461,Medium Popularity,Terrier Group
+Canaan Dog,3,3,3,4,2,1,3,3,4,3,4,3,5,3,181.76923076923077,Low Popularity,Herding Group
+Cane Corso,4,3,3,2,1,3,3,3,5,3,4,4,3,3,29.0,High Popularity,Working Group
+Cardigan Welsh Corgi,4,4,3,3,2,1,4,4,3,3,4,4,5,4,68.0,Medium Popularity,Herding Group
+Cavalier King Charles Spaniel,5,5,5,2,2,2,4,3,3,3,4,3,3,3,16.307692307692307,High Popularity,Toy Group
+Cesky Terrier,4,5,3,2,2,1,4,3,3,4,3,3,3,3,186.53846153846155,Low Popularity,Terrier Group
+Chesapeake Bay Retriever,4,3,3,3,3,2,3,3,4,4,5,4,3,4,47.30769230769231,High Popularity,Sporting Group
+Chihuahua,4,1,3,2,1,1,2,4,4,4,3,4,5,3,30.153846153846153,High Popularity,Toy Group
+Chinese Crested,4,3,3,1,2,1,4,3,3,4,4,3,3,3,75.3076923076923,Medium Popularity,Toy Group
+Chinese Shar-Pei,4,3,3,3,1,3,3,3,4,4,3,3,3,3,65.53846153846153,Medium Popularity,Non-Sporting Group
+Chinook,4,5,5,3,3,1,3,3,4,4,4,3,5,3,179.30769230769232,Low Popularity,Working Group
+Chow Chow,4,3,2,3,3,3,2,3,5,3,3,3,1,3,80.15384615384616,Medium Popularity,Non-Sporting Group
+Cirneco dell’Etna,4,4,4,1,1,0,4,4,3,4,4,3,2,4,176.75,Low Popularity,Hound Group
+Clumber Spaniel,4,3,3,3,2,4,4,3,3,4,4,3,1,3,140.30769230769232,Low Popularity,Sporting Group
+Cocker Spaniel,4,5,5,3,4,2,4,3,3,4,4,4,3,3,29.846153846153847,High Popularity,Sporting Group
+Collie,4,5,3,3,3,2,3,4,3,4,4,3,5,3,38.07692307692308,High Popularity,Herding Group
+Coton de Tulear,5,5,5,2,4,1,5,4,3,4,4,3,1,3,79.0,Medium Popularity,Non-Sporting Group
+Curly-Coated Retriever,5,5,3,2,1,1,3,4,4,4,4,4,3,3,163.0,Low Popularity,Sporting Group
+Dachshund,5,3,4,2,2,2,4,4,4,4,4,3,5,3,9.923076923076923,High Popularity,Hound Group
+Dalmatian,5,3,3,4,2,2,4,4,4,4,4,4,3,4,55.92307692307692,Medium Popularity,Non-Sporting Group
+Dandie Dinmont Terrier,4,3,3,2,3,1,4,3,4,3,4,3,3,3,177.0,Low Popularity,Terrier Group
+Danish-Swedish Farmdog,5,5,5,2,1,1,5,4,4,4,4,4,3,4,170.0,Low Popularity,Working Group
+Doberman Pinscher,5,5,3,4,1,2,4,4,5,4,5,5,3,4,15.538461538461538,High Popularity,Working Group
+Dogo Argentino,5,3,3,4,1,3,4,4,5,4,5,5,3,4,87.85714285714286,Medium Popularity,Working Group
+Dogue de Bordeaux,5,3,3,4,1,5,3,3,5,4,4,3,3,4,73.15384615384616,Medium Popularity,Working Group
+English Cocker Spaniel,5,5,5,3,3,2,4,3,3,4,4,3,3,4,48.76923076923077,High Popularity,Sporting Group
+English Foxhound,5,5,5,3,1,2,4,4,3,4,4,4,5,4,190.69230769230768,Low Popularity,Hound Group
+English Setter,5,4,4,3,3,3,4,4,3,4,4,3,3,4,95.23076923076923,Medium Popularity,Sporting Group
+English Springer Spaniel,5,3,4,3,2,3,4,4,3,4,5,4,3,4,26.923076923076923,High Popularity,Sporting Group
+English Toy Spaniel,5,5,5,3,3,2,3,4,3,4,3,3,2,3,136.6153846153846,Low Popularity,Toy Group
+Entlebucher Mountain Dog,5,3,5,3,1,2,3,3,5,4,3,5,3,4,164.0,Low Popularity,Herding Group
+Field Spaniel,5,5,4,3,2,2,4,3,3,4,5,3,3,3,148.15384615384616,Low Popularity,Sporting Group
+Finnish Lapphund,5,4,3,4,2,2,4,3,3,4,4,3,5,3,159.84615384615384,Low Popularity,Herding Group
+Finnish Spitz,5,5,4,3,2,2,3,3,3,4,3,5,5,4,184.23076923076923,Low Popularity,Non-Sporting Group
+Flat-Coated Retriever,5,5,5,3,2,2,5,5,3,5,5,5,3,4,95.92307692307692,Medium Popularity,Sporting Group
+French Bulldog,5,5,4,3,1,3,5,5,3,5,4,3,1,3,4.0,High Popularity,Non-Sporting Group
+German Pinscher,5,3,3,3,1,1,3,4,4,3,5,5,3,4,138.69230769230768,Low Popularity,Working Group
+German Shepherd Dog,5,5,3,4,2,2,3,4,5,5,5,5,3,5,2.8461538461538463,High Popularity,Herding Group
+German Shorthaired Pointer,5,5,4,3,2,2,4,4,4,4,5,5,3,5,10.153846153846153,High Popularity,Sporting Group
+German Wirehaired Pointer,5,3,3,2,2,2,4,4,3,4,5,5,3,4,63.15384615384615,Medium Popularity,Sporting Group
+Giant Schnauzer,4,3,3,2,4,2,2,5,5,4,3,5,3,5,70.07692307692308,Medium Popularity,Working Group
+Glen of Imaal Terrier,5,3,3,2,3,2,3,3,3,4,3,3,2,3,169.46153846153845,Low Popularity,Terrier Group
+Golden Retriever,5,5,5,4,2,2,5,4,3,5,5,3,1,4,3.076923076923077,High Popularity,Sporting Group
+Gordon Setter,5,3,3,3,2,4,3,3,4,4,5,5,3,4,106.61538461538461,Medium Popularity,Sporting Group
+Grand Basset Griffon Vendéen,5,3,4,3,2,2,5,4,3,4,3,5,4,4,189.375,Low Popularity,Hound Group
+Great Dane,5,3,3,3,1,4,3,4,5,4,3,4,3,4,16.923076923076923,High Popularity,Working Group
+Great Pyrenee,5,3,3,3,2,3,3,3,5,3,3,3,3,3,68.15384615384616,Medium Popularity,Working Group
+Greater Swiss Mountain Dog,5,5,3,3,2,3,5,4,4,3,4,4,3,4,77.6923076923077,Medium Popularity,Working Group
+Greyhound,4,3,4,2,1,1,3,3,3,4,3,4,3,3,142.84615384615384,Low Popularity,Hound Group
+Harrier,5,5,5,3,1,2,4,4,3,4,4,4,5,4,186.6153846153846,Low Popularity,Hound Group
+Havanese,5,5,5,2,3,1,5,5,3,5,4,3,4,3,24.23076923076923,High Popularity,Toy Group
+Ibizan Hound,5,3,5,2,1,1,3,4,3,4,3,5,3,5,165.46153846153845,Low Popularity,Hound Group
+Icelandic Sheepdog,5,5,4,3,2,2,3,3,4,4,5,4,4,5,143.46153846153845,Low Popularity,Herding Group
+Irish Red and White Setter,5,5,5,2,2,2,5,3,3,5,5,5,3,3,156.6153846153846,Low Popularity,Sporting Group
+Irish Setter,5,5,5,3,3,2,5,5,3,4,4,5,3,4,74.84615384615384,Medium Popularity,Sporting Group
+Irish Terrier,5,5,1,2,1,1,3,3,5,4,3,3,3,4,124.92307692307692,Medium Popularity,Terrier Group
+Irish Water Spaniel,5,3,3,1,3,2,3,5,3,4,5,3,1,4,163.6153846153846,Low Popularity,Sporting Group
+Irish Wolfhound,5,3,4,3,2,2,3,3,5,3,3,3,1,3,75.76923076923077,Medium Popularity,Hound Group
+Italian Greyhound,5,3,5,3,1,1,5,4,3,4,4,3,3,3,67.23076923076923,Medium Popularity,Toy Group
+Japanese Chin,5,3,5,3,2,1,3,3,3,4,3,3,2,3,102.84615384615384,Medium Popularity,Toy Group
+Keeshond,5,5,5,3,3,2,5,5,5,5,5,4,4,4,89.61538461538461,Medium Popularity,Non-Sporting Group
+Kerry Blue Terrier,5,4,2,1,3,2,3,3,5,3,3,4,4,4,135.46153846153845,Low Popularity,Terrier Group
+Komondor,5,3,2,1,4,2,3,3,5,3,4,3,3,3,175.07692307692307,Low Popularity,Working Group
+Kuvasz,5,3,3,3,2,2,3,3,5,4,5,3,3,3,165.6153846153846,Low Popularity,Working Group
+Labrador Retriever,5,5,5,4,2,2,5,5,3,5,5,5,3,4,1.3076923076923077,High Popularity,Sporting Group
+Lagotto Romagnolo,5,3,5,1,2,2,4,4,3,4,4,4,2,4,89.9,Medium Popularity,Sporting Group
+Lakeland Terrier,5,3,3,2,2,1,3,4,3,4,3,3,3,4,145.46153846153845,Low Popularity,Terrier Group
+Lancashire Heeler,5,5,5,3,1,1,4,4,3,4,4,4,4,4,189.5,Low Popularity,Herding Group
+Leonberger,5,5,3,4,4,3,5,3,4,4,5,3,3,4,99.0,Medium Popularity,Working Group
+Lhasa Apso,5,3,3,1,3,1,3,3,5,5,3,3,3,3,77.15384615384616,Medium Popularity,Non-Sporting Group
+Lowchen,5,5,3,2,2,1,3,4,4,4,4,3,3,3,161.76923076923077,Low Popularity,Non-Sporting Group
+Maltese,5,3,3,1,4,1,3,3,4,4,3,3,3,3,34.76923076923077,High Popularity,Toy Group
+Manchester Terrier,5,4,3,2,2,1,3,4,4,4,4,4,4,3,130.23076923076923,Low Popularity,Terrier Group
+Mastiff,5,5,3,3,1,4,3,3,5,4,3,3,1,3,32.07692307692308,High Popularity,Working Group
+Miniature American Shepherd,5,5,5,3,3,2,3,4,3,4,5,5,3,5,30.7,High Popularity,Herding Group
+Miniature Bull Terrier,5,3,3,2,1,2,3,4,4,4,3,4,5,4,113.3076923076923,Medium Popularity,Terrier Group
+Miniature Pinscher,5,3,4,3,1,1,3,4,5,4,3,5,5,5,69.3076923076923,Medium Popularity,Toy Group
+Miniature Schnauzer,5,5,3,3,4,2,3,4,4,5,5,3,5,4,17.46153846153846,High Popularity,Terrier Group
+Mudi,5,3,3,2,1,2,3,5,4,4,5,5,4,3,131.75,Low Popularity,Herding Group
+Neapolitan Mastiff,3,3,3,3,2,5,3,2,5,3,3,2,1,3,110.07692307692308,Medium Popularity,Working Group
+Nederlandse Kooikerhondje,5,3,3,3,2,2,4,3,3,4,5,4,3,4,159.625,Low Popularity,Sporting Group
+Newfoundland,5,5,5,3,2,5,5,3,5,4,3,3,1,3,40.38461538461539,High Popularity,Working Group
+Norfolk Terrier,5,5,3,3,2,1,5,4,4,4,3,4,4,4,130.76923076923077,Low Popularity,Terrier Group
+Norwegian Buhund,5,3,3,3,2,1,3,3,4,4,3,4,4,4,171.6153846153846,Low Popularity,Herding Group
+Norwegian Elkhound,5,3,3,3,2,2,4,4,5,4,4,4,4,4,102.15384615384616,Medium Popularity,Hound Group
+Norwegian Lundehund,5,3,3,3,2,1,3,3,3,3,3,3,4,3,191.69230769230768,Low Popularity,Non-Sporting Group
+Norwich Terrier,5,5,3,3,2,1,5,4,4,4,3,4,4,4,104.3076923076923,Medium Popularity,Terrier Group
+Nova Scotia Duck Tolling Retriever,5,5,4,3,2,2,3,5,3,4,5,5,2,4,86.53846153846153,Medium Popularity,Sporting Group
+Old English Sheepdog,5,5,3,3,4,3,3,4,4,4,4,3,3,4,75.46153846153847,Medium Popularity,Herding Group
+Otterhound,5,3,3,2,2,3,4,3,3,4,4,3,5,3,180.23076923076923,Low Popularity,Hound Group
+Papillon,5,5,3,3,2,1,5,5,4,5,5,4,5,5,48.53846153846154,High Popularity,Toy Group
+Parson Russell Terrier,5,3,5,2,2,1,3,4,3,4,4,5,3,4,115.0,Medium Popularity,Terrier Group
+Pekingese,5,3,3,3,3,1,3,4,4,4,3,3,1,3,88.38461538461539,Medium Popularity,Toy Group
+Pembroke Welsh Corgi,5,3,4,4,2,1,4,4,5,4,4,4,4,4,15.153846153846153,High Popularity,Herding Group
+Petit Basset Griffon Vendéen,4,5,5,2,2,2,4,4,4,4,3,4,5,4,154.0,Low Popularity,Hound Group
+Pharaoh Hound,5,3,5,3,2,1,3,3,3,3,4,4,3,4,172.53846153846155,Low Popularity,Hound Group
+Plott Hound,5,3,5,2,1,2,4,3,4,4,4,4,4,3,166.30769230769232,Low Popularity,Hound Group
+Pointer,5,3,5,3,2,2,4,4,3,4,5,4,3,4,116.0,Medium Popularity,Sporting Group
+Polish Lowland Sheepdog,5,3,3,2,4,2,3,4,5,5,4,3,4,4,175.6153846153846,Low Popularity,Herding Group
+Pomeranian,5,3,3,2,3,1,3,3,4,4,3,3,4,3,21.846153846153847,High Popularity,Toy Group
+Poodle,5,5,3,1,4,1,5,5,5,4,4,4,4,5,6.3076923076923075,High Popularity,Non-Sporting Group
+Portuguese Podengo Pequeno,5,5,5,3,2,1,3,4,3,4,3,4,3,4,159.07692307692307,Low Popularity,Hound Group
+Portuguese Water Dog,5,5,4,2,4,2,4,5,4,5,5,5,3,5,48.69230769230769,High Popularity,Working Group
+Pug,5,5,4,4,2,1,5,5,3,5,4,3,1,3,32.92307692307692,High Popularity,Toy Group
+Puli,5,3,3,1,5,2,3,3,5,4,5,3,3,5,157.30769230769232,Low Popularity,Herding Group
+Pumi,5,3,3,1,2,2,3,4,4,4,5,5,3,5,157.88888888888889,Low Popularity,Herding Group
+Pyrenean Shepherd,5,3,3,3,2,2,3,5,5,4,5,5,4,5,182.6153846153846,Low Popularity,Herding Group
+Rat Terrier,5,5,3,3,2,1,5,5,4,4,5,4,3,5,90.66666666666667,Medium Popularity,Terrier Group
+Redbone Coonhound,5,5,5,3,2,3,3,3,3,4,3,3,4,4,144.46153846153845,Low Popularity,Hound Group
+Rhodesian Ridgeback,5,5,3,3,2,2,3,3,5,4,4,3,2,4,41.0,High Popularity,Hound Group
+Rottweiler,5,3,3,3,1,3,3,4,5,4,5,3,1,5,8.307692307692308,High Popularity,Working Group
+Russell Terrier,5,3,5,3,2,1,5,5,4,4,3,5,4,5,80.46153846153847,Medium Popularity,Terrier Group
+Russian Toy,5,3,3,3,2,1,3,4,4,4,4,3,4,3,145.0,Low Popularity,Toy Group
+Saint Bernard,5,5,3,3,2,5,3,3,5,4,3,3,1,3,52.46153846153846,Medium Popularity,Working Group
+Saluki,5,3,3,2,1,1,3,3,1,3,3,4,3,5,129.15384615384616,Low Popularity,Hound Group
+Samoyed,5,5,3,3,3,1,5,5,4,4,4,4,5,4,58.30769230769231,Medium Popularity,Working Group
+Schipperke,5,3,3,3,2,1,3,4,5,4,4,3,4,3,110.38461538461539,Medium Popularity,Non-Sporting Group
+Scottish Deerhound,5,3,5,3,1,1,3,3,3,3,3,3,1,3,159.69230769230768,Low Popularity,Hound Group
+Scottish Terrier,5,3,2,2,3,2,3,4,5,4,3,3,4,4,57.46153846153846,Medium Popularity,Terrier Group
+Sealyham Terrier,5,3,3,3,3,1,4,3,5,4,4,3,4,4,158.53846153846155,Low Popularity,Terrier Group
+Shetland Sheepdog,5,5,5,3,3,1,2,5,5,5,5,4,5,4,25.307692307692307,High Popularity,Herding Group
+Shiba Inu,5,3,3,3,2,1,3,3,5,3,2,3,3,4,44.30769230769231,High Popularity,Non-Sporting Group
+Shih Tzu,5,5,5,1,4,1,3,3,3,5,4,3,3,3,19.53846153846154,High Popularity,Toy Group
+Siberian Husky,5,5,5,4,2,1,5,5,1,4,3,5,5,4,17.53846153846154,High Popularity,Working Group
+Silky Terrier,5,3,3,2,3,1,4,4,5,4,4,3,4,3,108.53846153846153,Medium Popularity,Toy Group
+Skye Terrier,5,3,3,3,3,1,3,3,3,3,3,3,3,3,179.07692307692307,Low Popularity,Terrier Group
+Sloughi,4,3,3,3,1,1,2,3,2,3,3,4,2,3,193.5,Low Popularity,Hound Group
+Smooth Fox Terrier,5,3,3,3,2,1,3,4,5,4,3,4,5,3,128.23076923076923,Low Popularity,Terrier Group
+Soft Coated Wheaten Terrier,5,5,3,1,4,2,3,3,3,3,3,4,3,3,58.69230769230769,Medium Popularity,Terrier Group
+Spanish Water Dog,5,4,3,1,4,2,3,4,3,3,4,4,3,5,150.33333333333334,Low Popularity,Herding Group
+Spinone Italiano,5,3,4,3,2,3,3,3,3,3,4,3,2,3,113.23076923076923,Medium Popularity,Sporting Group
+Staffordshire Bull Terrier,5,5,3,3,2,2,4,4,3,5,5,5,3,4,76.23076923076923,Medium Popularity,Terrier Group
+Standard Schnauzer,5,5,3,1,3,3,3,4,5,4,5,3,3,5,92.0,Medium Popularity,Working Group
+Sussex Spaniel,5,3,3,3,3,3,3,4,3,2,3,3,4,3,174.30769230769232,Low Popularity,Sporting Group
+Swedish Vallhund,5,5,3,4,2,2,3,4,3,4,4,4,3,4,154.76923076923077,Low Popularity,Herding Group
+Tibetan Mastiff,4,3,3,4,3,3,1,3,5,3,3,3,3,4,138.92307692307693,Low Popularity,Working Group
+Tibetan Spaniel,5,5,3,3,2,2,4,4,4,4,3,3,3,3,119.92307692307692,Medium Popularity,Non-Sporting Group
+Tibetan Terrier,5,3,3,3,3,2,3,3,4,4,3,4,3,4,101.3076923076923,Medium Popularity,Non-Sporting Group
+Toy Fox Terrier,5,3,3,3,2,1,5,4,5,4,5,4,4,4,110.38461538461539,Medium Popularity,Toy Group
+Treeing Walker Coonhound,5,5,5,3,1,3,3,4,3,4,5,5,4,5,136.84615384615384,Low Popularity,Hound Group
+Vizsla,5,5,4,3,2,2,4,5,3,5,5,5,3,5,33.23076923076923,High Popularity,Sporting Group
+Weimaraner,5,5,3,3,2,2,3,5,5,4,5,5,3,5,40.38461538461539,High Popularity,Sporting Group
+Welsh Springer Spaniel,5,5,4,3,2,2,1,3,3,4,5,4,3,4,130.15384615384616,Low Popularity,Sporting Group
+Welsh Terrier,5,5,3,2,3,2,5,4,4,4,4,4,4,4,111.07692307692308,Medium Popularity,Terrier Group
+West Highland White Terrier,5,5,3,3,3,1,4,5,5,4,3,4,5,4,42.15384615384615,High Popularity,Terrier Group
+Whippet,5,5,5,2,1,1,3,4,3,3,3,4,1,4,56.23076923076923,Medium Popularity,Hound Group
+Wire Fox Terrier,5,5,3,2,3,2,5,4,4,4,4,4,4,4,101.23076923076923,Medium Popularity,Terrier Group
+Wirehaired Pointing Griffon,5,5,3,3,2,3,5,4,3,4,5,5,3,5,63.07692307692308,Medium Popularity,Sporting Group
+Wirehaired Vizsla,5,5,3,3,1,2,5,5,3,4,5,5,3,5,146.75,Low Popularity,Sporting Group
+Xoloitzcuintli,5,3,3,1,1,1,3,4,3,4,4,4,3,4,131.30769230769232,Low Popularity,Non-Sporting Group
+Yorkshire Terrier,5,5,3,1,5,1,5,4,5,5,4,4,4,4,10.384615384615385,High Popularity,Toy Group
