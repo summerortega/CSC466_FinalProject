@@ -28,7 +28,6 @@ This project investigates the logic behind dog breed popularity in the United St
 
 ## Repository Structure
 
-- `configs/`: reusable model configuration files.
 - `data/raw/`: original combined source data.
 - `data/interim/`: cleaned intermediate data tables used to build modeling datasets.
 - `data/processed/`: final modeling datasets only.
