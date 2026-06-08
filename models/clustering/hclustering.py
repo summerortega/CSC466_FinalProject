@@ -48,9 +48,6 @@ def hclustering_main(filename, threshold=None, ground_truth_col=None):
 
     dendrogram = clusters[0]
     dendrogram['type'] = 'root'
-    print(json.dumps(dendrogram, indent=2))
-    with open("dendrogram.json", "w") as f:
-        json.dump(dendrogram, f, indent=2)
 
     if threshold is not None:
         cut_clusters = cut_tree(dendrogram, threshold)
