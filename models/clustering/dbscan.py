@@ -4,7 +4,7 @@ from sklearn.metrics import pairwise_distances
 
 from .evaluation import read_csv, print_cluster_report
 
-def dbscan(filename, epsilon, num_points, ground_truth_col=None):
+def dbscan_main(filename, epsilon, num_points, ground_truth_col=None):
     df, ground_truth = read_csv(filename, ground_truth_col)
     arr = df.to_numpy()
 

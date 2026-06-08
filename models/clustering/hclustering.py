@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics import pairwise_distances
 from .evaluation import read_csv, print_cluster_report
-def hclustering(filename, threshold=None, ground_truth_col=None):
+def hclustering_main(filename, threshold=None, ground_truth_col=None):
     df, ground_truth = read_csv(filename, ground_truth_col)
     arr = df.to_numpy()
     data_points = [x.tolist() for x in arr]

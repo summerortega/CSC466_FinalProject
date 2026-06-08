@@ -23,7 +23,7 @@ def euc_dist(x:pd.Series, centroid:pd.Series) -> float:
 
 
 #main k-means algorithm
-def kmeans(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=None):
+def kmeans_main(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=None):
     #read dataframe
     df, ground_truth = read_csv(csv_file, ground_truth_col)
     #select centroids
