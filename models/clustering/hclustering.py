@@ -16,8 +16,9 @@ def hclustering_main(filename, threshold=None, ground_truth_col=None):
     matrix = pd.DataFrame(pairwise_distances(data_points, Y=None, metric='euclidean'))
 
     while len(matrix) > 1:
-        temp_matrix = matrix.copy()
-        np.fill_diagonal(temp_matrix.values, np.inf)
+        temp_values = matrix.to_numpy(copy=True)
+        np.fill_diagonal(temp_values, np.inf)
+        temp_matrix = pd.DataFrame(temp_values, index=matrix.index, columns=matrix.columns)
 
         a = temp_matrix.min(axis=0).idxmin()
         b = temp_matrix[a].idxmin()
