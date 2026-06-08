@@ -1,13 +1,10 @@
 import json
-import sys
 
 import numpy as np
 import pandas as pd
 from sklearn.metrics import pairwise_distances
-from evaluation import read_csv, print_cluster_report
-
-
-def main(filename, threshold=None, ground_truth_col=None):
+from .evaluation import read_csv, print_cluster_report
+def hclustering(filename, threshold=None, ground_truth_col=None):
     df, ground_truth = read_csv(filename, ground_truth_col)
     arr = df.to_numpy()
     data_points = [x.tolist() for x in arr]
@@ -103,18 +100,3 @@ def labels_from_cut_clusters(data, cut_clusters):
                     break
 
     return labels
-
-if __name__ == "__main__":
-    args = sys.argv[1:]
-
-    if len(args) == 1:
-        main(args[0])
-    elif len(args) == 2:
-        main(args[0], float(args[1]))
-    elif len(args) == 3:
-        main(args[0], float(args[1]), int(args[2]))
-    else:
-        print("Usage: python3 hclustering.py <csv_path> [<threshold>] [<ground_truth_col>]")
-
-
-

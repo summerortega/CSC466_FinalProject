@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.metrics import silhouette_score, silhouette_samples
 from sklearn.metrics import rand_score
 
-
 def read_csv(csv_path: str, ground_truth_col=None) -> pd.DataFrame:
     with open(csv_path, "r") as f:
         first_line = f.readline().strip()

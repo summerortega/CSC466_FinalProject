@@ -3,9 +3,9 @@ Breed,Family Life,Physical,Social,Personality,Coat Type,Coat Length,Popularity T
 Popularity Tier,,,,,,,
 Affenpinscher,3.0,2.3333333333333335,3.75,3.0,Wiry,Short; Medium,Low Popularity
 Afghan Hound,3.0,2.0,3.0,2.75,Silky,Long,Medium Popularity
-Airedale Terrier,3.0,1.6666666666666667,3.5,3.0,Wiry,Short; Medium,Medium Popularity
-Akita,2.3333333333333335,2.3333333333333335,3.25,3.0,Double,Medium,Medium Popularity
-Alaskan Malamute,3.0,2.3333333333333335,3.25,3.75,Double,Medium,Medium Popularity
+Airedale Terrier,3.0,1.6666666666666667,3.5,3.0,Wiry,Short; Medium,High Popularity
+Akita,2.3333333333333335,2.3333333333333335,3.25,3.0,Double,Medium,High Popularity
+Alaskan Malamute,3.0,2.3333333333333335,3.25,3.75,Double,Medium,High Popularity
 American English Coonhound,3.6666666666666665,1.3333333333333333,3.0,3.5,Smooth,Short,Low Popularity
 American Eskimo Dog,4.333333333333333,2.3333333333333335,3.75,3.5,Double,Medium,Medium Popularity
 American Foxhound,4.333333333333333,1.6666666666666667,3.0,3.75,Smooth,Short,Low Popularity
@@ -13,7 +13,7 @@ American Hairless Terrier,4.333333333333333,1.0,3.5,3.5,Hairless,Short,Medium Po
 American Staffordshire Terrier,3.6666666666666665,1.3333333333333333,3.75,3.0,Smooth,Short,Medium Popularity
 American Water Spaniel,3.0,1.6666666666666667,3.0,3.5,Double; Curly,Medium,Low Popularity
 Anatolian Shepherd Dog,2.3333333333333335,2.0,3.0,2.75,Smooth,Short,Medium Popularity
-Australian Cattle Dog,3.0,1.6666666666666667,3.25,3.5,Smooth; Double,Short,Medium Popularity
+Australian Cattle Dog,3.0,1.6666666666666667,3.25,3.5,Smooth; Double,Short,High Popularity
 Australian Shepherd,3.6666666666666665,2.0,3.25,4.5,Double,Medium,High Popularity
 Australian Terrier,4.0,1.3333333333333333,3.5,3.25,Rough; Double,Medium,Low Popularity
 Azawakh,3.0,1.6666666666666667,2.5,2.25,Smooth,Short,Low Popularity
@@ -21,8 +21,8 @@ Barbet,3.3333333333333335,2.3333333333333335,3.0,3.25,Curly; Wavy,Medium; Long,L
 Basenji,3.0,1.3333333333333333,3.0,2.75,Smooth,Short,Medium Popularity
 Basset Hound,4.333333333333333,3.0,3.0,3.0,Smooth,Short,High Popularity
 Beagle,4.333333333333333,2.0,3.25,3.75,Smooth,Short,High Popularity
-Bearded Collie,4.666666666666667,2.6666666666666665,3.75,3.75,Silky,Long,Low Popularity
-Beauceron,3.0,2.6666666666666665,3.0,3.5,Smooth; Double,Short,Low Popularity
+Bearded Collie,4.666666666666667,2.6666666666666665,3.75,3.75,Silky,Long,Medium Popularity
+Beauceron,3.0,2.6666666666666665,3.0,3.5,Smooth; Double,Short,Medium Popularity
 Bedlington Terrier,3.0,1.6666666666666667,3.25,3.25,Curly,Medium,Low Popularity
 Belgian Laekenoi,3.0,2.0,3.25,4.0,Wiry; Rough,Medium,Low Popularity
 Belgian Malinoi,3.0,2.0,3.25,4.0,Smooth,Short,High Popularity
@@ -34,9 +34,9 @@ Bernese Mountain Dog,5.0,3.6666666666666665,3.75,3.5,Double,Medium,High Populari
 Bichon Frise,5.0,2.3333333333333335,3.75,3.5,Double; Curly,Long,High Popularity
 Biewer Terrier,4.333333333333333,1.6666666666666667,3.0,3.0,Silky,Long,Medium Popularity
 Black Russian Terrier,3.0,3.3333333333333335,3.5,3.75,Double; Curly,Medium; Long,Medium Popularity
-Black and Tan Coonhound,4.666666666666667,2.6666666666666665,3.0,3.25,Smooth,Short,Low Popularity
-Bloodhound,3.3333333333333335,3.3333333333333335,2.75,3.75,Smooth,Short,Medium Popularity
-Bluetick Coonhound,3.6666666666666665,2.3333333333333335,2.75,3.75,Smooth,Short,Low Popularity
+Black and Tan Coonhound,4.666666666666667,2.6666666666666665,3.0,3.25,Smooth,Short,Medium Popularity
+Bloodhound,3.3333333333333335,3.3333333333333335,2.75,3.75,Smooth,Short,High Popularity
+Bluetick Coonhound,3.6666666666666665,2.3333333333333335,2.75,3.75,Smooth,Short,Medium Popularity
 Boerboel,3.6666666666666665,2.6666666666666665,3.5,3.5,Smooth,Short,Medium Popularity
 Border Collie,3.6666666666666665,2.3333333333333335,4.25,4.75,Double; Wavy,Medium,High Popularity
 Border Terrier,4.0,1.6666666666666667,3.75,3.25,Wiry,Short,Medium Popularity
@@ -49,9 +49,9 @@ Bracco Italiano,3.6666666666666665,1.6666666666666667,3.0,3.5,Smooth,Short,Low P
 Briard,3.0,2.3333333333333335,3.25,2.5,Double; Wavy,Long,Low Popularity
 Brittany,3.6666666666666665,2.3333333333333335,3.25,4.25,Double; Wavy,Short,High Popularity
 Brussels Griffon,3.3333333333333335,2.3333333333333335,3.75,3.5,Wiry; Smooth; Double,Short; Medium,Medium Popularity
-Bull Terrier,2.6666666666666665,2.0,3.5,3.5,Smooth,Short,Medium Popularity
+Bull Terrier,2.6666666666666665,2.0,3.5,3.5,Smooth,Short,High Popularity
 Bulldog,3.3333333333333335,3.0,3.5,3.0,Smooth,Short,High Popularity
-Bullmastiff,3.3333333333333335,2.3333333333333335,3.5,3.25,Smooth,Short,Medium Popularity
+Bullmastiff,3.3333333333333335,2.3333333333333335,3.5,3.25,Smooth,Short,High Popularity
 Cairn Terrier,3.3333333333333335,1.6666666666666667,3.5,3.25,Wiry; Double,Medium,Medium Popularity
 Canaan Dog,3.0,2.3333333333333335,3.25,3.75,Smooth; Double,Short,Low Popularity
 Cane Corso,3.3333333333333335,2.0,3.5,3.5,Smooth,Short,High Popularity
@@ -61,7 +61,7 @@ Cesky Terrier,4.0,1.6666666666666667,3.5,3.0,Wavy; Silky,Medium,Low Popularity
 Chesapeake Bay Retriever,3.3333333333333335,2.6666666666666665,3.5,4.0,Wiry; Wavy,Medium,High Popularity
 Chihuahua,2.6666666666666665,1.3333333333333333,3.5,3.75,Smooth,Short; Medium,High Popularity
 Chinese Crested,3.3333333333333335,1.3333333333333333,3.5,3.25,Hairless; Silky,Short; Medium,Medium Popularity
-Chinese Shar-Pei,3.3333333333333335,2.3333333333333335,3.5,3.0,Smooth,Short,Medium Popularity
+Chinese Shar-Pei,3.3333333333333335,2.3333333333333335,3.5,3.0,Smooth,Short,High Popularity
 Chinook,4.666666666666667,2.3333333333333335,3.5,3.75,Smooth,Medium,Low Popularity
 Chow Chow,3.0,3.0,3.25,2.5,Smooth; Rough; Double,Medium,Medium Popularity
 Cirneco dell’Etna,4.0,0.6666666666666666,3.75,3.25,Smooth,Short,Low Popularity
@@ -71,7 +71,7 @@ Collie,4.0,2.6666666666666665,3.5,3.75,Smooth; Rough,Short; Long,High Popularity
 Coton de Tulear,5.0,2.3333333333333335,4.0,2.75,Double; Wavy,Long,Medium Popularity
 Curly-Coated Retriever,4.333333333333333,1.3333333333333333,3.75,3.5,Double; Curly,Short,Low Popularity
 Dachshund,4.0,2.0,4.0,3.75,Smooth,Short; Medium,High Popularity
-Dalmatian,3.6666666666666665,2.6666666666666665,4.0,3.75,Smooth,Short,Medium Popularity
+Dalmatian,3.6666666666666665,2.6666666666666665,4.0,3.75,Smooth,Short,High Popularity
 Dandie Dinmont Terrier,3.3333333333333335,2.0,3.5,3.25,Double,Medium,Low Popularity
 Danish-Swedish Farmdog,5.0,1.3333333333333333,4.25,3.75,Smooth,Short,Low Popularity
 Doberman Pinscher,4.333333333333333,2.3333333333333335,4.25,4.25,Smooth,Short,High Popularity
@@ -91,7 +91,7 @@ French Bulldog,4.666666666666667,2.3333333333333335,4.5,2.75,Smooth,Short,High P
 German Pinscher,3.6666666666666665,1.6666666666666667,3.5,4.25,Smooth,Short,Low Popularity
 German Shepherd Dog,4.333333333333333,2.6666666666666665,4.25,4.5,Double,Medium,High Popularity
 German Shorthaired Pointer,4.666666666666667,2.3333333333333335,4.0,4.5,Smooth,Short,High Popularity
-German Wirehaired Pointer,3.6666666666666665,2.0,3.75,4.25,Wiry; Double,Medium,Medium Popularity
+German Wirehaired Pointer,3.6666666666666665,2.0,3.75,4.25,Wiry; Double,Medium,High Popularity
 Giant Schnauzer,3.3333333333333335,2.6666666666666665,4.0,4.0,Wiry; Double,Medium,Medium Popularity
 Glen of Imaal Terrier,3.6666666666666665,2.3333333333333335,3.25,2.75,Wiry,Medium,Low Popularity
 Golden Retriever,5.0,2.6666666666666665,4.25,3.25,Double,Medium,High Popularity
@@ -124,17 +124,17 @@ Leonberger,4.333333333333333,3.6666666666666665,4.0,3.75,Double,Long,Medium Popu
 Lhasa Apso,3.6666666666666665,1.6666666666666667,4.0,3.0,Silky,Long,Medium Popularity
 Lowchen,4.333333333333333,1.6666666666666667,3.75,3.25,Wavy,Long,Low Popularity
 Maltese,3.6666666666666665,2.0,3.5,3.0,Silky,Long,High Popularity
-Manchester Terrier,4.0,1.6666666666666667,3.75,3.75,Smooth,Short,Low Popularity
+Manchester Terrier,4.0,1.6666666666666667,3.75,3.75,Smooth,Short,Medium Popularity
 Mastiff,4.333333333333333,2.6666666666666665,3.75,2.5,Double,Short,High Popularity
 Miniature American Shepherd,5.0,2.6666666666666665,3.5,4.5,Double,Medium,High Popularity
 Miniature Bull Terrier,3.6666666666666665,1.6666666666666667,3.75,4.0,Smooth,Short,Medium Popularity
 Miniature Pinscher,4.0,1.6666666666666667,4.0,4.5,Smooth,Short,Medium Popularity
 Miniature Schnauzer,4.333333333333333,3.0,4.0,4.25,Wiry; Double,Medium,High Popularity
-Mudi,3.6666666666666665,1.6666666666666667,4.0,4.25,Curly,Medium,Low Popularity
+Mudi,3.6666666666666665,1.6666666666666667,4.0,4.25,Curly,Medium,Medium Popularity
 Neapolitan Mastiff,3.0,3.3333333333333335,3.25,2.25,Smooth,Short,Medium Popularity
 Nederlandse Kooikerhondje,3.6666666666666665,2.3333333333333335,3.5,4.0,Double; Wavy,Medium,Low Popularity
 Newfoundland,5.0,3.3333333333333335,4.25,2.5,Double,Medium,High Popularity
-Norfolk Terrier,4.333333333333333,2.0,4.25,3.75,Wiry; Double,Short,Low Popularity
+Norfolk Terrier,4.333333333333333,2.0,4.25,3.75,Wiry; Double,Short,Medium Popularity
 Norwegian Buhund,3.6666666666666665,2.0,3.5,3.75,Double,Medium,Low Popularity
 Norwegian Elkhound,3.6666666666666665,2.3333333333333335,4.25,4.0,Double,Medium,Medium Popularity
 Norwegian Lundehund,3.6666666666666665,2.0,3.0,3.25,Double,Short,Low Popularity
@@ -165,12 +165,12 @@ Rhodesian Ridgeback,4.333333333333333,2.3333333333333335,3.75,3.25,Smooth,Short,
 Rottweiler,3.6666666666666665,2.3333333333333335,4.0,3.5,Smooth,Short,High Popularity
 Russell Terrier,4.333333333333333,2.0,4.5,4.25,Wiry; Smooth,Short,Medium Popularity
 Russian Toy,3.6666666666666665,2.0,3.75,3.5,Double,Short,Low Popularity
-Saint Bernard,4.333333333333333,3.3333333333333335,3.75,2.5,Smooth; Rough; Double,Short,Medium Popularity
-Saluki,3.6666666666666665,1.3333333333333333,2.5,3.75,Smooth,Short,Low Popularity
-Samoyed,4.333333333333333,2.3333333333333335,4.5,4.25,Double,Long,Medium Popularity
+Saint Bernard,4.333333333333333,3.3333333333333335,3.75,2.5,Smooth; Rough; Double,Short,High Popularity
+Saluki,3.6666666666666665,1.3333333333333333,2.5,3.75,Smooth,Short,Medium Popularity
+Samoyed,4.333333333333333,2.3333333333333335,4.5,4.25,Double,Long,High Popularity
 Schipperke,3.6666666666666665,2.0,4.0,3.5,Double,Short,Medium Popularity
 Scottish Deerhound,4.333333333333333,1.6666666666666667,3.0,2.5,Wiry; Double,Medium,Low Popularity
-Scottish Terrier,3.3333333333333335,2.3333333333333335,4.0,3.5,Wiry; Double,Medium,Medium Popularity
+Scottish Terrier,3.3333333333333335,2.3333333333333335,4.0,3.5,Wiry; Double,Medium,High Popularity
 Sealyham Terrier,3.6666666666666665,2.3333333333333335,4.0,3.75,Wiry; Double,Medium,Low Popularity
 Shetland Sheepdog,5.0,2.3333333333333335,4.25,4.5,Double,Long,High Popularity
 Shiba Inu,3.6666666666666665,2.0,3.5,3.0,Double,Short,High Popularity
@@ -179,8 +179,8 @@ Siberian Husky,5.0,2.3333333333333335,3.75,4.25,Double,Medium,High Popularity
 Silky Terrier,3.6666666666666665,2.0,4.25,3.5,Silky,Long,Medium Popularity
 Skye Terrier,3.6666666666666665,2.3333333333333335,3.0,3.0,Double,Long,Low Popularity
 Sloughi,3.3333333333333335,1.6666666666666667,2.5,3.0,Smooth,Short,Low Popularity
-Smooth Fox Terrier,3.6666666666666665,2.0,4.0,3.75,Smooth,Short,Low Popularity
-Soft Coated Wheaten Terrier,4.333333333333333,2.3333333333333335,3.0,3.25,Wavy; Silky,Medium,Medium Popularity
+Smooth Fox Terrier,3.6666666666666665,2.0,4.0,3.75,Smooth,Short,Medium Popularity
+Soft Coated Wheaten Terrier,4.333333333333333,2.3333333333333335,3.0,3.25,Wavy; Silky,Medium,High Popularity
 Spanish Water Dog,4.0,2.3333333333333335,3.25,4.0,Corded; Curly,Medium,Low Popularity
 Spinone Italiano,4.0,2.6666666666666665,3.0,3.0,Wiry,Medium,Medium Popularity
 Staffordshire Bull Terrier,4.333333333333333,2.3333333333333335,4.0,4.25,Smooth,Short,Medium Popularity
@@ -194,12 +194,12 @@ Toy Fox Terrier,3.6666666666666665,2.0,4.5,4.25,Smooth,Short,Medium Popularity
 Treeing Walker Coonhound,5.0,2.3333333333333335,3.5,4.75,Smooth,Short,Low Popularity
 Vizsla,4.666666666666667,2.3333333333333335,4.25,4.5,Smooth,Short,High Popularity
 Weimaraner,4.333333333333333,2.3333333333333335,4.25,4.5,Smooth,Short,High Popularity
-Welsh Springer Spaniel,4.666666666666667,2.3333333333333335,2.75,4.0,Double,Medium,Low Popularity
+Welsh Springer Spaniel,4.666666666666667,2.3333333333333335,2.75,4.0,Double,Medium,Medium Popularity
 Welsh Terrier,4.333333333333333,2.3333333333333335,4.25,4.0,Wiry; Double,Medium,Medium Popularity
 West Highland White Terrier,4.333333333333333,2.3333333333333335,4.5,4.0,Double,Medium,High Popularity
-Whippet,5.0,1.3333333333333333,3.25,3.0,Smooth,Short,Medium Popularity
+Whippet,5.0,1.3333333333333333,3.25,3.0,Smooth,Short,High Popularity
 Wire Fox Terrier,4.333333333333333,2.3333333333333335,4.25,4.0,Wiry; Double,Medium,Medium Popularity
-Wirehaired Pointing Griffon,4.333333333333333,2.6666666666666665,4.0,4.5,Wiry; Double,Medium,Medium Popularity
+Wirehaired Pointing Griffon,4.333333333333333,2.6666666666666665,4.0,4.5,Wiry; Double,Medium,High Popularity
 Wirehaired Vizsla,4.333333333333333,2.0,4.25,4.5,Wiry,Short,Low Popularity
-Xoloitzcuintli,3.6666666666666665,1.0,3.5,3.75,Hairless; Smooth,Short,Low Popularity
+Xoloitzcuintli,3.6666666666666665,1.0,3.5,3.75,Hairless; Smooth,Short,Medium Popularity
 Yorkshire Terrier,4.333333333333333,2.3333333333333335,4.75,4.0,Silky,Long,High Popularity

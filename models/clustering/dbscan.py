@@ -1,13 +1,10 @@
-import sys
-
 import numpy as np
 import pandas as pd
 from sklearn.metrics import pairwise_distances
 
-from evaluation import read_csv, print_cluster_report
+from .evaluation import read_csv, print_cluster_report
 
-
-def main(filename, epsilon, num_points, ground_truth_col=None):
+def dbscan(filename, epsilon, num_points, ground_truth_col=None):
     df, ground_truth = read_csv(filename, ground_truth_col)
     arr = df.to_numpy()
 
@@ -56,14 +53,3 @@ def density_connected(point, core_points, neighborhood, cluster, current_cluster
 
             if neighbor in core_points:
                 density_connected(neighbor, core_points, neighborhood, cluster, current_cluster)
-
-
-if __name__ == "__main__":
-    args = sys.argv[1:]
-
-    if len(args) == 3:
-        main(args[0], float(args[1]), int(args[2]))
-    elif len(args) == 4:
-        main(args[0], float(args[1]), int(args[2]), int(args[3]))
-    else:
-        print("Usage: python3 dbscan.py <csv_path> <epsilon> <num_points> [<ground_truth_col>]")

@@ -3,9 +3,9 @@ Breed,Affectionate With Family,Good With Young Children,Good With Other Dogs,She
 Popularity Tier,,,,,,,,,,,,,,,,,
 Affenpinscher,3,3,3,3,3,1,5,3,3,4,3,3,3,3,Wiry,Short; Medium,Low Popularity
 Afghan Hound,3,3,3,1,4,1,3,3,3,3,1,4,3,3,Silky,Long,Medium Popularity
-Airedale Terrier,3,3,3,1,3,1,3,3,5,3,3,3,3,3,Wiry,Short; Medium,Medium Popularity
-Akita,3,3,1,3,3,1,2,3,5,3,3,4,2,3,Double,Medium,Medium Popularity
-Alaskan Malamute,3,3,3,3,3,1,3,3,4,3,5,4,3,3,Double,Medium,Medium Popularity
+Airedale Terrier,3,3,3,1,3,1,3,3,5,3,3,3,3,3,Wiry,Short; Medium,High Popularity
+Akita,3,3,1,3,3,1,2,3,5,3,3,4,2,3,Double,Medium,High Popularity
+Alaskan Malamute,3,3,3,3,3,1,3,3,4,3,5,4,3,3,Double,Medium,High Popularity
 American English Coonhound,3,3,5,2,1,1,3,3,3,3,3,4,4,3,Smooth,Short,Low Popularity
 American Eskimo Dog,5,5,3,3,3,1,5,3,3,4,4,4,3,3,Double,Medium,Medium Popularity
 American Foxhound,3,5,5,3,1,1,3,3,3,3,3,4,5,3,Smooth,Short,Low Popularity
@@ -13,7 +13,7 @@ American Hairless Terrier,5,5,3,1,1,1,3,3,3,5,5,3,3,3,Hairless,Short,Medium Popu
 American Staffordshire Terrier,5,3,3,2,1,1,4,3,5,3,3,3,3,3,Smooth,Short,Medium Popularity
 American Water Spaniel,3,3,3,1,3,1,3,3,3,3,5,3,3,3,Double; Curly,Medium,Low Popularity
 Anatolian Shepherd Dog,1,3,3,3,2,1,1,3,5,3,2,3,3,3,Smooth,Short,Medium Popularity
-Australian Cattle Dog,3,3,3,3,1,1,3,3,4,3,4,5,1,4,Smooth; Double,Short,Medium Popularity
+Australian Cattle Dog,3,3,3,3,1,1,3,3,4,3,4,5,1,4,Smooth; Double,Short,High Popularity
 Australian Shepherd,3,5,3,3,2,1,3,4,3,3,5,5,3,5,Double,Medium,High Popularity
 Australian Terrier,4,5,3,1,2,1,3,3,4,4,4,3,3,3,Rough; Double,Medium,Low Popularity
 Azawakh,3,3,3,2,2,1,1,3,3,3,2,3,1,3,Smooth,Short,Low Popularity
@@ -21,8 +21,8 @@ Barbet,4,3,3,1,5,1,3,3,3,3,4,3,3,3,Curly; Wavy,Medium; Long,Low Popularity
 Basenji,3,3,3,2,1,1,3,3,3,3,2,4,1,4,Smooth,Short,Medium Popularity
 Basset Hound,3,5,5,2,3,4,3,3,3,3,3,2,4,3,Smooth,Short,High Popularity
 Beagle,3,5,5,3,2,1,3,4,2,4,3,4,4,4,Smooth,Short,High Popularity
-Bearded Collie,4,5,5,3,4,1,4,4,3,4,3,4,5,3,Silky,Long,Low Popularity
-Beauceron,3,3,3,4,3,1,2,3,4,3,3,5,3,3,Smooth; Double,Short,Low Popularity
+Bearded Collie,4,5,5,3,4,1,4,4,3,4,3,4,5,3,Silky,Long,Medium Popularity
+Beauceron,3,3,3,4,3,1,2,3,4,3,3,5,3,3,Smooth; Double,Short,Medium Popularity
 Bedlington Terrier,3,3,3,1,3,1,3,3,4,3,3,4,3,3,Curly,Medium,Low Popularity
 Belgian Laekenoi,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Wiry; Rough,Medium,Low Popularity
 Belgian Malinoi,3,3,3,3,2,1,3,3,4,3,5,4,3,4,Smooth,Short,High Popularity
@@ -34,9 +34,9 @@ Bernese Mountain Dog,5,5,5,5,3,3,4,4,3,4,4,4,3,3,Double,Medium,High Popularity
 Bichon Frise,5,5,5,1,5,1,5,4,2,4,4,4,3,3,Double; Curly,Long,High Popularity
 Biewer Terrier,5,3,5,1,3,1,3,4,2,3,3,3,3,3,Silky,Long,Medium Popularity
 Black Russian Terrier,3,3,3,3,4,3,2,3,5,4,4,4,3,4,Double; Curly,Medium; Long,Medium Popularity
-Black and Tan Coonhound,4,5,5,3,2,3,3,3,2,4,3,3,4,3,Smooth,Short,Low Popularity
-Bloodhound,4,3,3,3,2,5,3,3,2,3,4,3,5,3,Smooth,Short,Medium Popularity
-Bluetick Coonhound,3,3,5,3,2,2,3,3,2,3,4,4,4,3,Smooth,Short,Low Popularity
+Black and Tan Coonhound,4,5,5,3,2,3,3,3,2,4,3,3,4,3,Smooth,Short,Medium Popularity
+Bloodhound,4,3,3,3,2,5,3,3,2,3,4,3,5,3,Smooth,Short,High Popularity
+Bluetick Coonhound,3,3,5,3,2,2,3,3,2,3,4,4,4,3,Smooth,Short,Medium Popularity
 Boerboel,5,4,2,3,2,3,3,3,5,3,4,3,3,4,Smooth,Short,Medium Popularity
 Border Collie,5,3,3,3,3,1,4,5,3,5,5,5,4,5,Double; Wavy,Medium,High Popularity
 Border Terrier,4,5,3,2,2,1,4,4,3,4,4,3,3,3,Wiry,Short,Medium Popularity
@@ -49,9 +49,9 @@ Bracco Italiano,3,4,4,2,1,2,3,3,3,3,5,4,2,3,Smooth,Short,Low Popularity
 Briard,3,3,3,1,4,2,3,3,4,3,3,3,1,3,Double; Wavy,Long,Low Popularity
 Brittany,3,4,4,3,3,1,3,4,3,3,5,5,3,4,Double; Wavy,Short,High Popularity
 Brussels Griffon,4,3,3,3,3,1,4,4,3,4,4,3,4,3,Wiry; Smooth; Double,Short; Medium,Medium Popularity
-Bull Terrier,4,3,1,3,2,1,4,4,3,3,3,4,3,4,Smooth,Short,Medium Popularity
+Bull Terrier,4,3,1,3,2,1,4,4,3,3,3,4,3,4,Smooth,Short,High Popularity
 Bulldog,4,3,3,3,3,3,4,4,3,3,4,3,2,3,Smooth,Short,High Popularity
-Bullmastiff,4,3,3,3,1,3,3,3,5,3,4,4,1,4,Smooth,Short,Medium Popularity
+Bullmastiff,4,3,3,3,1,3,3,3,5,3,4,4,1,4,Smooth,Short,High Popularity
 Cairn Terrier,4,3,3,2,2,1,3,4,4,3,3,3,4,3,Wiry; Double,Medium,Medium Popularity
 Canaan Dog,3,3,3,4,2,1,3,3,4,3,4,3,5,3,Smooth; Double,Short,Low Popularity
 Cane Corso,4,3,3,2,1,3,3,3,5,3,4,4,3,3,Smooth,Short,High Popularity
@@ -61,7 +61,7 @@ Cesky Terrier,4,5,3,2,2,1,4,3,3,4,3,3,3,3,Wavy; Silky,Medium,Low Popularity
 Chesapeake Bay Retriever,4,3,3,3,3,2,3,3,4,4,5,4,3,4,Wiry; Wavy,Medium,High Popularity
 Chihuahua,4,1,3,2,1,1,2,4,4,4,3,4,5,3,Smooth,Short; Medium,High Popularity
 Chinese Crested,4,3,3,1,2,1,4,3,3,4,4,3,3,3,Hairless; Silky,Short; Medium,Medium Popularity
-Chinese Shar-Pei,4,3,3,3,1,3,3,3,4,4,3,3,3,3,Smooth,Short,Medium Popularity
+Chinese Shar-Pei,4,3,3,3,1,3,3,3,4,4,3,3,3,3,Smooth,Short,High Popularity
 Chinook,4,5,5,3,3,1,3,3,4,4,4,3,5,3,Smooth,Medium,Low Popularity
 Chow Chow,4,3,2,3,3,3,2,3,5,3,3,3,1,3,Smooth; Rough; Double,Medium,Medium Popularity
 Cirneco dell’Etna,4,4,4,1,1,0,4,4,3,4,4,3,2,4,Smooth,Short,Low Popularity
@@ -71,7 +71,7 @@ Collie,4,5,3,3,3,2,3,4,3,4,4,3,5,3,Smooth; Rough,Short; Long,High Popularity
 Coton de Tulear,5,5,5,2,4,1,5,4,3,4,4,3,1,3,Double; Wavy,Long,Medium Popularity
 Curly-Coated Retriever,5,5,3,2,1,1,3,4,4,4,4,4,3,3,Double; Curly,Short,Low Popularity
 Dachshund,5,3,4,2,2,2,4,4,4,4,4,3,5,3,Smooth,Short; Medium,High Popularity
-Dalmatian,5,3,3,4,2,2,4,4,4,4,4,4,3,4,Smooth,Short,Medium Popularity
+Dalmatian,5,3,3,4,2,2,4,4,4,4,4,4,3,4,Smooth,Short,High Popularity
 Dandie Dinmont Terrier,4,3,3,2,3,1,4,3,4,3,4,3,3,3,Double,Medium,Low Popularity
 Danish-Swedish Farmdog,5,5,5,2,1,1,5,4,4,4,4,4,3,4,Smooth,Short,Low Popularity
 Doberman Pinscher,5,5,3,4,1,2,4,4,5,4,5,5,3,4,Smooth,Short,High Popularity
@@ -91,7 +91,7 @@ French Bulldog,5,5,4,3,1,3,5,5,3,5,4,3,1,3,Smooth,Short,High Popularity
 German Pinscher,5,3,3,3,1,1,3,4,4,3,5,5,3,4,Smooth,Short,Low Popularity
 German Shepherd Dog,5,5,3,4,2,2,3,4,5,5,5,5,3,5,Double,Medium,High Popularity
 German Shorthaired Pointer,5,5,4,3,2,2,4,4,4,4,5,5,3,5,Smooth,Short,High Popularity
-German Wirehaired Pointer,5,3,3,2,2,2,4,4,3,4,5,5,3,4,Wiry; Double,Medium,Medium Popularity
+German Wirehaired Pointer,5,3,3,2,2,2,4,4,3,4,5,5,3,4,Wiry; Double,Medium,High Popularity
 Giant Schnauzer,4,3,3,2,4,2,2,5,5,4,3,5,3,5,Wiry; Double,Medium,Medium Popularity
 Glen of Imaal Terrier,5,3,3,2,3,2,3,3,3,4,3,3,2,3,Wiry,Medium,Low Popularity
 Golden Retriever,5,5,5,4,2,2,5,4,3,5,5,3,1,4,Double,Medium,High Popularity
@@ -124,17 +124,17 @@ Leonberger,5,5,3,4,4,3,5,3,4,4,5,3,3,4,Double,Long,Medium Popularity
 Lhasa Apso,5,3,3,1,3,1,3,3,5,5,3,3,3,3,Silky,Long,Medium Popularity
 Lowchen,5,5,3,2,2,1,3,4,4,4,4,3,3,3,Wavy,Long,Low Popularity
 Maltese,5,3,3,1,4,1,3,3,4,4,3,3,3,3,Silky,Long,High Popularity
-Manchester Terrier,5,4,3,2,2,1,3,4,4,4,4,4,4,3,Smooth,Short,Low Popularity
+Manchester Terrier,5,4,3,2,2,1,3,4,4,4,4,4,4,3,Smooth,Short,Medium Popularity
 Mastiff,5,5,3,3,1,4,3,3,5,4,3,3,1,3,Double,Short,High Popularity
 Miniature American Shepherd,5,5,5,3,3,2,3,4,3,4,5,5,3,5,Double,Medium,High Popularity
 Miniature Bull Terrier,5,3,3,2,1,2,3,4,4,4,3,4,5,4,Smooth,Short,Medium Popularity
 Miniature Pinscher,5,3,4,3,1,1,3,4,5,4,3,5,5,5,Smooth,Short,Medium Popularity
 Miniature Schnauzer,5,5,3,3,4,2,3,4,4,5,5,3,5,4,Wiry; Double,Medium,High Popularity
-Mudi,5,3,3,2,1,2,3,5,4,4,5,5,4,3,Curly,Medium,Low Popularity
+Mudi,5,3,3,2,1,2,3,5,4,4,5,5,4,3,Curly,Medium,Medium Popularity
 Neapolitan Mastiff,3,3,3,3,2,5,3,2,5,3,3,2,1,3,Smooth,Short,Medium Popularity
 Nederlandse Kooikerhondje,5,3,3,3,2,2,4,3,3,4,5,4,3,4,Double; Wavy,Medium,Low Popularity
 Newfoundland,5,5,5,3,2,5,5,3,5,4,3,3,1,3,Double,Medium,High Popularity
-Norfolk Terrier,5,5,3,3,2,1,5,4,4,4,3,4,4,4,Wiry; Double,Short,Low Popularity
+Norfolk Terrier,5,5,3,3,2,1,5,4,4,4,3,4,4,4,Wiry; Double,Short,Medium Popularity
 Norwegian Buhund,5,3,3,3,2,1,3,3,4,4,3,4,4,4,Double,Medium,Low Popularity
 Norwegian Elkhound,5,3,3,3,2,2,4,4,5,4,4,4,4,4,Double,Medium,Medium Popularity
 Norwegian Lundehund,5,3,3,3,2,1,3,3,3,3,3,3,4,3,Double,Short,Low Popularity
@@ -165,12 +165,12 @@ Rhodesian Ridgeback,5,5,3,3,2,2,3,3,5,4,4,3,2,4,Smooth,Short,High Popularity
 Rottweiler,5,3,3,3,1,3,3,4,5,4,5,3,1,5,Smooth,Short,High Popularity
 Russell Terrier,5,3,5,3,2,1,5,5,4,4,3,5,4,5,Wiry; Smooth,Short,Medium Popularity
 Russian Toy,5,3,3,3,2,1,3,4,4,4,4,3,4,3,Double,Short,Low Popularity
-Saint Bernard,5,5,3,3,2,5,3,3,5,4,3,3,1,3,Smooth; Rough; Double,Short,Medium Popularity
-Saluki,5,3,3,2,1,1,3,3,1,3,3,4,3,5,Smooth,Short,Low Popularity
-Samoyed,5,5,3,3,3,1,5,5,4,4,4,4,5,4,Double,Long,Medium Popularity
+Saint Bernard,5,5,3,3,2,5,3,3,5,4,3,3,1,3,Smooth; Rough; Double,Short,High Popularity
+Saluki,5,3,3,2,1,1,3,3,1,3,3,4,3,5,Smooth,Short,Medium Popularity
+Samoyed,5,5,3,3,3,1,5,5,4,4,4,4,5,4,Double,Long,High Popularity
 Schipperke,5,3,3,3,2,1,3,4,5,4,4,3,4,3,Double,Short,Medium Popularity
 Scottish Deerhound,5,3,5,3,1,1,3,3,3,3,3,3,1,3,Wiry; Double,Medium,Low Popularity
-Scottish Terrier,5,3,2,2,3,2,3,4,5,4,3,3,4,4,Wiry; Double,Medium,Medium Popularity
+Scottish Terrier,5,3,2,2,3,2,3,4,5,4,3,3,4,4,Wiry; Double,Medium,High Popularity
 Sealyham Terrier,5,3,3,3,3,1,4,3,5,4,4,3,4,4,Wiry; Double,Medium,Low Popularity
 Shetland Sheepdog,5,5,5,3,3,1,2,5,5,5,5,4,5,4,Double,Long,High Popularity
 Shiba Inu,5,3,3,3,2,1,3,3,5,3,2,3,3,4,Double,Short,High Popularity
@@ -179,8 +179,8 @@ Siberian Husky,5,5,5,4,2,1,5,5,1,4,3,5,5,4,Double,Medium,High Popularity
 Silky Terrier,5,3,3,2,3,1,4,4,5,4,4,3,4,3,Silky,Long,Medium Popularity
 Skye Terrier,5,3,3,3,3,1,3,3,3,3,3,3,3,3,Double,Long,Low Popularity
 Sloughi,4,3,3,3,1,1,2,3,2,3,3,4,2,3,Smooth,Short,Low Popularity
-Smooth Fox Terrier,5,3,3,3,2,1,3,4,5,4,3,4,5,3,Smooth,Short,Low Popularity
-Soft Coated Wheaten Terrier,5,5,3,1,4,2,3,3,3,3,3,4,3,3,Wavy; Silky,Medium,Medium Popularity
+Smooth Fox Terrier,5,3,3,3,2,1,3,4,5,4,3,4,5,3,Smooth,Short,Medium Popularity
+Soft Coated Wheaten Terrier,5,5,3,1,4,2,3,3,3,3,3,4,3,3,Wavy; Silky,Medium,High Popularity
 Spanish Water Dog,5,4,3,1,4,2,3,4,3,3,4,4,3,5,Corded; Curly,Medium,Low Popularity
 Spinone Italiano,5,3,4,3,2,3,3,3,3,3,4,3,2,3,Wiry,Medium,Medium Popularity
 Staffordshire Bull Terrier,5,5,3,3,2,2,4,4,3,5,5,5,3,4,Smooth,Short,Medium Popularity
@@ -194,12 +194,12 @@ Toy Fox Terrier,5,3,3,3,2,1,5,4,5,4,5,4,4,4,Smooth,Short,Medium Popularity
 Treeing Walker Coonhound,5,5,5,3,1,3,3,4,3,4,5,5,4,5,Smooth,Short,Low Popularity
 Vizsla,5,5,4,3,2,2,4,5,3,5,5,5,3,5,Smooth,Short,High Popularity
 Weimaraner,5,5,3,3,2,2,3,5,5,4,5,5,3,5,Smooth,Short,High Popularity
-Welsh Springer Spaniel,5,5,4,3,2,2,1,3,3,4,5,4,3,4,Double,Medium,Low Popularity
+Welsh Springer Spaniel,5,5,4,3,2,2,1,3,3,4,5,4,3,4,Double,Medium,Medium Popularity
 Welsh Terrier,5,5,3,2,3,2,5,4,4,4,4,4,4,4,Wiry; Double,Medium,Medium Popularity
 West Highland White Terrier,5,5,3,3,3,1,4,5,5,4,3,4,5,4,Double,Medium,High Popularity
-Whippet,5,5,5,2,1,1,3,4,3,3,3,4,1,4,Smooth,Short,Medium Popularity
+Whippet,5,5,5,2,1,1,3,4,3,3,3,4,1,4,Smooth,Short,High Popularity
 Wire Fox Terrier,5,5,3,2,3,2,5,4,4,4,4,4,4,4,Wiry; Double,Medium,Medium Popularity
-Wirehaired Pointing Griffon,5,5,3,3,2,3,5,4,3,4,5,5,3,5,Wiry; Double,Medium,Medium Popularity
+Wirehaired Pointing Griffon,5,5,3,3,2,3,5,4,3,4,5,5,3,5,Wiry; Double,Medium,High Popularity
 Wirehaired Vizsla,5,5,3,3,1,2,5,5,3,4,5,5,3,5,Wiry,Short,Low Popularity
-Xoloitzcuintli,5,3,3,1,1,1,3,4,3,4,4,4,3,4,Hairless; Smooth,Short,Low Popularity
+Xoloitzcuintli,5,3,3,1,1,1,3,4,3,4,4,4,3,4,Hairless; Smooth,Short,Medium Popularity
 Yorkshire Terrier,5,5,3,1,5,1,5,4,5,5,4,4,4,4,Silky,Long,High Popularity

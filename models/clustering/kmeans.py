@@ -1,8 +1,7 @@
-import sys
 import numpy as np
 import pandas as pd
 import math
-from evaluation import read_csv, print_cluster_report
+from .evaluation import read_csv, print_cluster_report
 
 #select centroids at random
 def select_centroids(df: pd.DataFrame, k:int) -> np.ndarray:
@@ -24,7 +23,7 @@ def euc_dist(x:pd.Series, centroid:pd.Series) -> float:
 
 
 #main k-means algorithm
-def main(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=None):
+def kmeans(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=None):
     #read dataframe
     df, ground_truth = read_csv(csv_file, ground_truth_col)
     #select centroids
@@ -65,14 +64,3 @@ def main(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=None):
         current_sse = calc_sse(centroids, clusters)
     print(labels)
     print_cluster_report(df.to_numpy(), labels, ground_truth)
-
-
-if __name__ == "__main__":
-    if len(sys.argv) == 3:
-        main(sys.argv[1], int(sys.argv[2]))
-    elif len(sys.argv) == 4:
-        main(sys.argv[1], int(sys.argv[2]), float(sys.argv[3]))
-    elif len(sys.argv) == 5:
-        main(sys.argv[1], int(sys.argv[2]), float(sys.argv[3]), int(sys.argv[4]))
-    else:
-        print("Usage: python3 kmeans.py <csv_file> <k> [<threshold>] [<ground_truth_col>]")
