@@ -72,7 +72,7 @@ def add_popularity_tier(breed_ranks):
     breed_ranks["Average Rank"] = average_rank
     breed_ranks["Popularity Tier"] = pd.cut(
         average_rank,
-        bins=[0, 50, 125, np.inf],
+        bins=3,
         labels=["High Popularity", "Medium Popularity", "Low Popularity"],
         include_lowest=True,
     )

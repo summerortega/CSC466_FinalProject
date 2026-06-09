@@ -1,42 +1,42 @@
 Breed,Average Rank,Actual Popularity Tier,Predicted Popularity Tier,Correct
-Doberman Pinscher,15.5,High Popularity,Medium Popularity,False
-Dogue de Bordeaux,73.2,Medium Popularity,Medium Popularity,True
-Sussex Spaniel,174.3,Low Popularity,Low Popularity,True
-Australian Cattle Dog,53.1,Medium Popularity,Low Popularity,False
-Maltese,34.8,High Popularity,Low Popularity,False
-Silky Terrier,108.5,Medium Popularity,Low Popularity,False
-Yorkshire Terrier,10.4,High Popularity,High Popularity,True
-Chinese Shar-Pei,65.5,Medium Popularity,Medium Popularity,True
-Lakeland Terrier,145.5,Low Popularity,Low Popularity,True
-Akita,50.6,Medium Popularity,Medium Popularity,True
-Irish Wolfhound,75.8,Medium Popularity,Low Popularity,False
-Bloodhound,51.2,Medium Popularity,Low Popularity,False
-English Springer Spaniel,26.9,High Popularity,Medium Popularity,False
-Greater Swiss Mountain Dog,77.7,Medium Popularity,Medium Popularity,True
-Petit Basset Griffon Vendéen,154.0,Low Popularity,Low Popularity,True
-Greyhound,142.8,Low Popularity,Low Popularity,True
-American Eskimo Dog,120.4,Medium Popularity,Medium Popularity,True
-Boston Terrier,22.2,High Popularity,Low Popularity,False
-Pug,32.9,High Popularity,High Popularity,True
-Harrier,186.6,Low Popularity,Low Popularity,True
-German Wirehaired Pointer,63.2,Medium Popularity,Low Popularity,False
+Bloodhound,51.2,High Popularity,Low Popularity,False
+Dogue de Bordeaux,73.2,Medium Popularity,High Popularity,False
+Irish Water Spaniel,163.6,Low Popularity,Low Popularity,True
+Anatolian Shepherd Dog,87.9,Medium Popularity,Low Popularity,False
+Belgian Malinoi,42.2,High Popularity,Low Popularity,False
+Italian Greyhound,67.2,Medium Popularity,Low Popularity,False
+Chinese Shar-Pei,65.5,High Popularity,Low Popularity,False
 Afghan Hound,108.9,Medium Popularity,Low Popularity,False
-German Shepherd Dog,2.8,High Popularity,High Popularity,True
-American Water Spaniel,162.8,Low Popularity,Low Popularity,True
-Pumi,157.9,Low Popularity,Low Popularity,True
-Manchester Terrier,130.2,Low Popularity,Low Popularity,True
-Azawakh,192.4,Low Popularity,Low Popularity,True
-Neapolitan Mastiff,110.1,Medium Popularity,Medium Popularity,True
-Norfolk Terrier,130.8,Low Popularity,Medium Popularity,False
-Welsh Springer Spaniel,130.2,Low Popularity,Low Popularity,True
-Chihuahua,30.2,High Popularity,Low Popularity,False
-Bulldog,5.8,High Popularity,Low Popularity,False
-Bearded Collie,130.3,Low Popularity,High Popularity,False
-Shiba Inu,44.3,High Popularity,Medium Popularity,False
-Redbone Coonhound,144.5,Low Popularity,Low Popularity,True
+Polish Lowland Sheepdog,175.6,Low Popularity,High Popularity,False
+Irish Terrier,124.9,Medium Popularity,Low Popularity,False
+Pointer,116.0,Medium Popularity,Low Popularity,False
+Dogo Argentino,87.9,Medium Popularity,High Popularity,False
+Cane Corso,29.0,High Popularity,Low Popularity,False
+Belgian Sheepdog,123.8,Medium Popularity,Low Popularity,False
+Brittany,27.6,High Popularity,Low Popularity,False
 American English Coonhound,173.1,Low Popularity,Low Popularity,True
-Otterhound,180.2,Low Popularity,Medium Popularity,False
-Black Russian Terrier,124.6,Medium Popularity,Medium Popularity,True
-Beauceron,125.5,Low Popularity,Medium Popularity,False
-Schipperke,110.4,Medium Popularity,Low Popularity,False
-Leonberger,99.0,Medium Popularity,Medium Popularity,True
+Neapolitan Mastiff,110.1,Medium Popularity,Low Popularity,False
+Siberian Husky,17.5,High Popularity,Low Popularity,False
+Newfoundland,40.4,High Popularity,Low Popularity,False
+Azawakh,192.4,Low Popularity,Low Popularity,True
+Spinone Italiano,113.2,Medium Popularity,Low Popularity,False
+Tibetan Spaniel,119.9,Medium Popularity,Low Popularity,False
+Shetland Sheepdog,25.3,High Popularity,High Popularity,True
+Lowchen,161.8,Low Popularity,Low Popularity,True
+Cirneco dell’Etna,176.8,Low Popularity,Low Popularity,True
+American Water Spaniel,162.8,Low Popularity,Low Popularity,True
+English Cocker Spaniel,48.8,High Popularity,Low Popularity,False
+Bluetick Coonhound,132.5,Medium Popularity,Low Popularity,False
+Pyrenean Shepherd,182.6,Low Popularity,High Popularity,False
+Skye Terrier,179.1,Low Popularity,Low Popularity,True
+Chesapeake Bay Retriever,47.3,High Popularity,Low Popularity,False
+Cocker Spaniel,29.8,High Popularity,Low Popularity,False
+Lakeland Terrier,145.5,Low Popularity,Low Popularity,True
+Maltese,34.8,High Popularity,Low Popularity,False
+Saint Bernard,52.5,High Popularity,High Popularity,True
+Canaan Dog,181.8,Low Popularity,Low Popularity,True
+Irish Red and White Setter,156.6,Low Popularity,High Popularity,False
+American Hairless Terrier,122.3,Medium Popularity,High Popularity,False
+Petit Basset Griffon Vendéen,154.0,Low Popularity,Low Popularity,True
+Keeshond,89.6,Medium Popularity,High Popularity,False
+Miniature Bull Terrier,113.3,Medium Popularity,Low Popularity,False
