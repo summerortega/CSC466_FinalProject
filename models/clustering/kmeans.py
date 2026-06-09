@@ -65,4 +65,3 @@ def kmeans_main(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=N
 
     return df, labels, centroids, ground_truth
 
-    # formalize outpit, add markdown explainations maybe, print out results clean, compare ground teuth to predication clusters -> results csv. akc groups and pop rankings. finalize report for submission

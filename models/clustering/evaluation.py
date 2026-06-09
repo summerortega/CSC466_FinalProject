@@ -62,37 +62,42 @@ def can_compute_silhouette(data, labels):
 
     return 2 <= num_clusters <= num_points - 1
 
-def print_cluster_report(data, labels, ground_truth=None):
+def cluster_metrics(data, labels, ground_truth=None):
     data = np.array(data)
     labels = np.array(labels)
 
-    non_noise_mask = labels != -1
-    clean_data = data[non_noise_mask]
-    clean_labels = labels[non_noise_mask]
-
     unique_labels = sorted(set(labels))
-    clean_unique_labels = sorted(set(clean_labels))
 
-    print("\nOverall Metrics")
-
-    if can_compute_silhouette(clean_data, clean_labels):
-        overall_silhouette = silhouette_score(clean_data, clean_labels)
-        sample_silhouettes = silhouette_samples(clean_data, clean_labels)
-        print("Overall silhouette score:", overall_silhouette)
+    if can_compute_silhouette(data, labels):
+        overall_silhouette = round(float(silhouette_score(data, labels)), 2)
+        sample_silhouettes = silhouette_samples(data, labels)
     else:
+        overall_silhouette = None
         sample_silhouettes = None
-        print("Overall silhouette score: undefined")
-
-    if ground_truth is not None:
-        print("Rand Index:", rand_score(ground_truth, labels))
 
     cluster_points = []
     radii = []
+    cluster_rows = {}
 
-    for label in clean_unique_labels:
+    for label in unique_labels:
         points = data[labels == label]
         cluster_points.append((label, points))
-        radii.append(cluster_radius(points))
+        radius = round(cluster_radius(points), 2)
+        radii.append(radius)
+
+        cluster_row = {
+            "Cluster ID": int(label),
+            "Cluster Size": int(len(points)),
+            "Radius": radius,
+        }
+
+        if sample_silhouettes is not None:
+            cluster_silhouettes = sample_silhouettes[labels == label]
+            cluster_row["Silhouette Score"] = round(float(np.mean(cluster_silhouettes)), 2)
+        else:
+            cluster_row["Silhouette Score"] = np.nan
+
+        cluster_rows[int(label)] = cluster_row
 
     inter_distances = []
 
@@ -101,51 +106,49 @@ def print_cluster_report(data, labels, ground_truth=None):
             dist = intercluster_distance(cluster_points[i][1], cluster_points[j][1])
             inter_distances.append(dist)
 
-    if len(inter_distances) > 0:
+    if len(inter_distances) > 0 and len(radii) > 0:
         avg_radius = sum(radii) / len(radii)
         avg_intercluster_distance = sum(inter_distances) / len(inter_distances)
-        ratio = avg_radius / avg_intercluster_distance
-        print("Average radius / average intercluster distance:", ratio)
+        radius_distance_ratio = round(avg_radius / avg_intercluster_distance, 2)
+    else:
+        radius_distance_ratio = None
+
+    metrics = {
+        "overall": {
+            "Silhouette Score": overall_silhouette,
+            "Rand Index": round(float(rand_score(ground_truth, labels)), 2) if ground_truth is not None else None,
+            "Average Radius / Average Intercluster Distance": radius_distance_ratio,
+        },
+        "clusters": cluster_rows,
+    }
+
+    return metrics
+
+
+def cluster_metrics_table(data, labels, ground_truth=None):
+    metrics = cluster_metrics(data, labels, ground_truth)
+    return pd.DataFrame(metrics["clusters"].values())
+
+def print_cluster_report(data, labels, ground_truth=None):
+    data = np.array(data)
+    labels = np.array(labels)
+    metrics = cluster_metrics(data, labels, ground_truth)
+
+    print("Overall Metrics")
+    overall_metrics = metrics["overall"]
+
+    if overall_metrics["Silhouette Score"] is not None:
+        print("Overall silhouette score:", overall_metrics["Silhouette Score"])
+    else:
+        print("Overall silhouette score: undefined")
+
+    if overall_metrics["Rand Index"] is not None:
+        print("Rand Index:", overall_metrics["Rand Index"])
+
+    if overall_metrics["Average Radius / Average Intercluster Distance"] is not None:
+        print(
+            "Average radius / average intercluster distance:",
+            overall_metrics["Average Radius / Average Intercluster Distance"],
+        )
     else:
         print("Average radius / average intercluster distance: undefined")
-
-    print("\nCluster Descriptions")
-
-    for label in unique_labels:
-        points = data[labels == label]
-
-        if label == -1:
-            print("\nNumber of outliers:", len(points))
-            if len(points) <= 10:
-                print("Outliers:")
-                for point in points:
-                    print(point.tolist())
-            else:
-                print("Representative outliers:")
-                for point in points[:5]:
-                    print(point.tolist())
-            continue
-
-        print(f"\nCluster {label + 1}:")
-        print("Number of points:", len(points))
-
-        if len(points) <= 10:
-            print("Points:")
-            for point in points:
-                print(point.tolist())
-        else:
-            print("Representative points:")
-            for point in points[:5]:
-                print(point.tolist())
-
-        c = centroid(points)
-        r = cluster_radius(points)
-
-        print("Centroid:", c.tolist())
-        print("Radius:", r)
-
-        if sample_silhouettes is not None:
-            cluster_silhouettes = sample_silhouettes[clean_labels == label]
-            print("Cluster silhouette score:", float(np.mean(cluster_silhouettes)))
-        else:
-            print("Cluster silhouette score: undefined")
