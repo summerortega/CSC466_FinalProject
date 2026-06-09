@@ -13,9 +13,9 @@ This project investigates the logic behind dog breed popularity in the United St
    - Model approach: Random Forest classification
    - Target variable: `Popularity Tier`
 
-2. Can dog breeds be grouped into meaningful clusters based on their traits, and do those trait-based clusters differ in popularity or align with official AKC breed groups?
+2. Can dog breeds be grouped into meaningful clusters based on their traits. Do those trait-based clusters align with the official AKC breed groups?
    - Model approach: Clustering
-   - Comparison labels: `Popularity Tier` and `AKC Group`
+   - Comparison label: `AKC Group`
 
 ## Data Files
 
@@ -39,29 +39,24 @@ This project investigates the logic behind dog breed popularity in the United St
 
 ## Question 1 Modeling Data
 
-For `data/processed/breed_forest_full.csv` and `data/processed/breed_forest_avg.csv`, the type-code row means:
+For `data/processed/breed_forest_full.csv` and `data/processed/breed_forest_avg.csv`
 
 - `-1`: row identifier, ignored by the classifier (`Breed`).
 - `0`: numeric predictor.
 - positive integer: categorical predictor or class variable with that many possible values.
 
-The class variable is `Popularity Tier`, currently defined as three average-rank groups:
-
-- `High Popularity`: average rank 1-50.
-- `Medium Popularity`: average rank 51-125.
-- `Low Popularity`: average rank 126+.
+The class variable is `Popularity Tier`, currently defined as three average-rank groups
 
 ## Question 1 Model Files
 
 - `notebooks/random_forest_full.ipynb`: evaluates the custom Random Forest model using all individual trait ratings.
 - `notebooks/random_forest_avg.ipynb`: evaluates the custom Random Forest model using trait-group average ratings.
-- `models/randomForest/rf_analysis_utils.py`: shared Random Forest notebook helpers for train/test loading, interpretation tables, confusion matrices, prediction CSVs, and rank-based summaries.
 
 ## Question 2 Clustering Files
 
 - `notebooks/model2_setup.ipynb`: creates the Question 2 clustering dataset.
 
-For `data/processed/breed_clustering_full.csv` and `data/processed/breed_clustering_avg.csv`, the second row marks the clustering columns:
+For `data/processed/breed_clustering_full.csv` and `data/processed/breed_clustering_avg.csv`
 
 - `1`: numeric column used by the clustering algorithm.
 - `0`: metadata or ground-truth label column not used as a clustering feature.

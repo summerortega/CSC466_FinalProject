@@ -62,5 +62,7 @@ def kmeans_main(csv_file:str, k:int, threshold:float = 0.025, ground_truth_col=N
         #calculate centroids
         prev_sse = current_sse
         current_sse = calc_sse(centroids, clusters)
-    print(labels)
-    print_cluster_report(df.to_numpy(), labels, ground_truth)
+
+    return df, labels, centroids, ground_truth
+
+    # formalize outpit, add markdown explainations maybe, print out results clean, compare ground teuth to predication clusters -> results csv. akc groups and pop rankings. finalize report for submission
