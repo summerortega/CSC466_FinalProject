@@ -1,12 +1,18 @@
 import numpy as np
 import pandas as pd
-from mizani._colors._palettes import brewer
 from mizani.formatters import percent_format
 from plotnine import *
 from sklearn.metrics import rand_score
 from sklearn.metrics.pairwise import pairwise_distances
 
 from models.clustering.evaluation import cluster_metrics_table
+
+NON_TRAIT_COLUMNS = {
+    "Breed",
+    "Average Rank",
+    "Popularity Tier",
+    "AKC Group",
+}
 
 def cluster_name(cluster_id):
     return f"Cluster {int(cluster_id) + 1}"
@@ -40,19 +46,21 @@ def predictions_output(data_path, labels, prediction_output_path, centroids):
 
     return prediction_results
 
+def load_trait_data(data_path):
+    trait_data = pd.read_csv(data_path).drop(index=0).reset_index(drop=True)
+    trait_columns = [
+        col for col in trait_data.columns
+        if col not in NON_TRAIT_COLUMNS
+    ]
 
-def load_full_trait_data(data_path):
-    full_trait_data = pd.read_csv(data_path).drop(index=0).reset_index(drop=True)
-    trait_columns = list(full_trait_data.columns[1:15])
+    for col in trait_columns + ["Average Rank"]:
+        if col in trait_data.columns:
+            trait_data[col] = pd.to_numeric(trait_data[col], errors="coerce")
 
-    for col in trait_columns:
-        full_trait_data[col] = pd.to_numeric(full_trait_data[col], errors="coerce")
-
-    return full_trait_data, trait_columns
-
+    return trait_data, trait_columns
 
 def akc_group_traits_table(data_path):
-    full_trait_data, trait_columns = load_full_trait_data(data_path)
+    full_trait_data, trait_columns = load_trait_data(data_path)
 
     group_traits = (
         full_trait_data.groupby("AKC Group")[trait_columns]
@@ -63,9 +71,8 @@ def akc_group_traits_table(data_path):
     group_traits.index.name = "Trait"
     return group_traits
 
-
 def cluster_to_akc_predictions(data_path, centroids):
-    full_trait_data, trait_columns = load_full_trait_data(data_path)
+    full_trait_data, trait_columns = load_trait_data(data_path)
     akc_centroids = full_trait_data.groupby("AKC Group")[trait_columns].mean()
 
     distance_matrix = pairwise_distances(centroids, akc_centroids.to_numpy(), metric="euclidean")

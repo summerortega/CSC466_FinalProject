@@ -5,7 +5,7 @@ Diego Melgoza (drmelgoz@calpoly.edu)
 
 ## Overview
 
-This project investigates the logic behind dog breed popularity in the United States using American Kennel Club (AKC) breed traits, breed groups, and popularity rankings from 2013-2025.
+This project investigates the logic behind dog breed popularity in the United States using American Kennel Club (AKC) breed traits, breed groups, and popularity rankings from 2013 to 2025.
 
 ## Research Questions
 
@@ -13,7 +13,7 @@ This project investigates the logic behind dog breed popularity in the United St
    - Model approach: Random Forest classification
    - Target variable: `Popularity Tier`
 
-2. Can dog breeds be grouped into meaningful clusters based on their traits. Do those trait-based clusters align with the official AKC breed groups?
+2. Can dog breeds be grouped into meaningful clusters based on their traits? Do those trait-based clusters align with the official AKC breed groups?
    - Model approach: Clustering
    - Comparison label: `AKC Group`
 
@@ -21,7 +21,7 @@ This project investigates the logic behind dog breed popularity in the United St
 
 - `data/raw/raw_dog_traits_table_2013_2025.csv`: combined AKC source data before project-specific cleaning.
 - `data/interim/breed_traits.csv`: breed trait table.
-- `data/interim/breed_ranks.csv`: breed popularity rankings from 2013-2025.
+- `data/interim/breed_ranks.csv`: breed popularity rankings from 2013 to 2025.
 - `data/interim/breed_groups.csv`: AKC breed group labels.
 - `data/processed/breed_forest_full.csv`: Question 1 modeling data with all individual trait ratings.
 - `data/processed/breed_forest_avg.csv`: Question 1 modeling data with AKC trait-group average ratings.
@@ -52,11 +52,17 @@ The class variable is `Popularity Tier`, currently defined as three average-rank
 - `notebooks/random_forest_full.ipynb`: evaluates the custom Random Forest model using all individual trait ratings.
 - `notebooks/random_forest_avg.ipynb`: evaluates the custom Random Forest model using trait-group average ratings.
 
-## Question 2 Clustering Files
-
-- `notebooks/model2_setup.ipynb`: creates the Question 2 clustering dataset.
+## Question 2 Modeling Data
 
 For `data/processed/breed_clustering_full.csv` and `data/processed/breed_clustering_avg.csv`
 
 - `1`: numeric column used by the clustering algorithm.
 - `0`: metadata or ground-truth label column not used as a clustering feature.
+
+The comparison label is `AKC Group`
+
+## Question 2 Model Files
+
+- `notebooks/clustering_full.ipynb`: runs k-means clustering using all individual trait ratings and compares clusters to AKC groups.
+- `notebooks/clustering_avg.ipynb`: runs k-means clustering using AKC trait-group average ratings and compares clusters to AKC groups.
+

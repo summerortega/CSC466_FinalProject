@@ -1,0 +1,203 @@
+Breed,Trait Cluster,Predicted AKC Group,Actual AKC Group,Distance To Predicted AKC Group,Correct AKC Prediction
+Affenpinscher,Cluster 1,Working Group,Toy Group,0.6,False
+Afghan Hound,Cluster 5,Hound Group,Hound Group,0.8,True
+Airedale Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Akita,Cluster 1,Working Group,Working Group,0.6,True
+Alaskan Malamute,Cluster 1,Working Group,Working Group,0.6,True
+American English Coonhound,Cluster 5,Hound Group,Hound Group,0.8,True
+American Eskimo Dog,Cluster 7,Sporting Group,Non-Sporting Group,0.54,False
+American Foxhound,Cluster 2,Terrier Group,Hound Group,0.36,False
+American Hairless Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+American Staffordshire Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+American Water Spaniel,Cluster 5,Hound Group,Sporting Group,0.8,False
+Anatolian Shepherd Dog,Cluster 5,Hound Group,Working Group,0.8,False
+Australian Cattle Dog,Cluster 5,Hound Group,Herding Group,0.8,False
+Australian Shepherd,Cluster 2,Terrier Group,Herding Group,0.36,False
+Australian Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Azawakh,Cluster 5,Hound Group,Hound Group,0.8,True
+Barbet,Cluster 1,Working Group,Sporting Group,0.6,False
+Basenji,Cluster 5,Hound Group,Hound Group,0.8,True
+Basset Hound,Cluster 7,Sporting Group,Hound Group,0.54,False
+Beagle,Cluster 2,Terrier Group,Hound Group,0.36,False
+Bearded Collie,Cluster 7,Sporting Group,Herding Group,0.54,False
+Beauceron,Cluster 1,Working Group,Herding Group,0.6,False
+Bedlington Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Belgian Laekenoi,Cluster 2,Terrier Group,Herding Group,0.36,False
+Belgian Malinoi,Cluster 2,Terrier Group,Herding Group,0.36,False
+Belgian Sheepdog,Cluster 2,Terrier Group,Herding Group,0.36,False
+Belgian Tervuren,Cluster 2,Terrier Group,Herding Group,0.36,False
+Bergamasco Sheepdog,Cluster 5,Hound Group,Herding Group,0.8,False
+Berger Picard,Cluster 5,Hound Group,Herding Group,0.8,False
+Bernese Mountain Dog,Cluster 7,Sporting Group,Working Group,0.54,False
+Bichon Frise,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+Biewer Terrier,Cluster 5,Hound Group,Toy Group,0.8,False
+Black Russian Terrier,Cluster 1,Working Group,Working Group,0.6,True
+Black and Tan Coonhound,Cluster 7,Sporting Group,Hound Group,0.54,False
+Bloodhound,Cluster 1,Working Group,Hound Group,0.6,False
+Bluetick Coonhound,Cluster 1,Working Group,Hound Group,0.6,False
+Boerboel,Cluster 1,Working Group,Working Group,0.6,True
+Border Collie,Cluster 6,Sporting Group,Herding Group,0.76,False
+Border Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Borzoi,Cluster 5,Hound Group,Hound Group,0.8,True
+Boston Terrier,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+Bouvier des Flandre,Cluster 1,Working Group,Herding Group,0.6,False
+Boxer,Cluster 2,Terrier Group,Working Group,0.36,False
+Boykin Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+Bracco Italiano,Cluster 5,Hound Group,Sporting Group,0.8,False
+Briard,Cluster 5,Hound Group,Herding Group,0.8,False
+Brittany,Cluster 2,Terrier Group,Sporting Group,0.36,False
+Brussels Griffon,Cluster 1,Working Group,Toy Group,0.6,False
+Bull Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Bulldog,Cluster 1,Working Group,Non-Sporting Group,0.6,False
+Bullmastiff,Cluster 1,Working Group,Working Group,0.6,True
+Cairn Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Canaan Dog,Cluster 1,Working Group,Herding Group,0.6,False
+Cane Corso,Cluster 5,Hound Group,Working Group,0.8,False
+Cardigan Welsh Corgi,Cluster 2,Terrier Group,Herding Group,0.36,False
+Cavalier King Charles Spaniel,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Cesky Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Chesapeake Bay Retriever,Cluster 1,Working Group,Sporting Group,0.6,False
+Chihuahua,Cluster 5,Hound Group,Toy Group,0.8,False
+Chinese Crested,Cluster 5,Hound Group,Toy Group,0.8,False
+Chinese Shar-Pei,Cluster 1,Working Group,Non-Sporting Group,0.6,False
+Chinook,Cluster 7,Sporting Group,Working Group,0.54,False
+Chow Chow,Cluster 1,Working Group,Non-Sporting Group,0.6,False
+Cirneco dell’Etna,Cluster 5,Hound Group,Hound Group,0.8,True
+Clumber Spaniel,Cluster 1,Working Group,Sporting Group,0.6,False
+Cocker Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+Collie,Cluster 7,Sporting Group,Herding Group,0.54,False
+Coton de Tulear,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+Curly-Coated Retriever,Cluster 2,Terrier Group,Sporting Group,0.36,False
+Dachshund,Cluster 2,Terrier Group,Hound Group,0.36,False
+Dalmatian,Cluster 1,Working Group,Non-Sporting Group,0.6,False
+Dandie Dinmont Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Danish-Swedish Farmdog,Cluster 4,Sporting Group,Working Group,0.84,False
+Doberman Pinscher,Cluster 6,Sporting Group,Working Group,0.76,False
+Dogo Argentino,Cluster 6,Sporting Group,Working Group,0.76,False
+Dogue de Bordeaux,Cluster 1,Working Group,Working Group,0.6,True
+English Cocker Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+English Foxhound,Cluster 4,Sporting Group,Hound Group,0.84,False
+English Setter,Cluster 7,Sporting Group,Sporting Group,0.54,True
+English Springer Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+English Toy Spaniel,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Entlebucher Mountain Dog,Cluster 2,Terrier Group,Herding Group,0.36,False
+Field Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+Finnish Lapphund,Cluster 7,Sporting Group,Herding Group,0.54,False
+Finnish Spitz,Cluster 4,Sporting Group,Non-Sporting Group,0.84,False
+Flat-Coated Retriever,Cluster 4,Sporting Group,Sporting Group,0.84,True
+French Bulldog,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+German Pinscher,Cluster 2,Terrier Group,Working Group,0.36,False
+German Shepherd Dog,Cluster 6,Sporting Group,Herding Group,0.76,False
+German Shorthaired Pointer,Cluster 4,Sporting Group,Sporting Group,0.84,True
+German Wirehaired Pointer,Cluster 2,Terrier Group,Sporting Group,0.36,False
+Giant Schnauzer,Cluster 1,Working Group,Working Group,0.6,True
+Glen of Imaal Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Golden Retriever,Cluster 3,Non-Sporting Group,Sporting Group,0.7,False
+Gordon Setter,Cluster 1,Working Group,Sporting Group,0.6,False
+Grand Basset Griffon Vendéen,Cluster 6,Sporting Group,Hound Group,0.76,False
+Great Dane,Cluster 1,Working Group,Working Group,0.6,True
+Great Pyrenee,Cluster 1,Working Group,Working Group,0.6,True
+Greater Swiss Mountain Dog,Cluster 7,Sporting Group,Working Group,0.54,False
+Greyhound,Cluster 5,Hound Group,Hound Group,0.8,True
+Harrier,Cluster 4,Sporting Group,Hound Group,0.84,False
+Havanese,Cluster 4,Sporting Group,Toy Group,0.84,False
+Ibizan Hound,Cluster 2,Terrier Group,Hound Group,0.36,False
+Icelandic Sheepdog,Cluster 4,Sporting Group,Herding Group,0.84,False
+Irish Red and White Setter,Cluster 4,Sporting Group,Sporting Group,0.84,True
+Irish Setter,Cluster 4,Sporting Group,Sporting Group,0.84,True
+Irish Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Irish Water Spaniel,Cluster 5,Hound Group,Sporting Group,0.8,False
+Irish Wolfhound,Cluster 3,Non-Sporting Group,Hound Group,0.7,False
+Italian Greyhound,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Japanese Chin,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Keeshond,Cluster 6,Sporting Group,Non-Sporting Group,0.76,False
+Kerry Blue Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Komondor,Cluster 1,Working Group,Working Group,0.6,True
+Kuvasz,Cluster 1,Working Group,Working Group,0.6,True
+Labrador Retriever,Cluster 4,Sporting Group,Sporting Group,0.84,True
+Lagotto Romagnolo,Cluster 2,Terrier Group,Sporting Group,0.36,False
+Lakeland Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Lancashire Heeler,Cluster 4,Sporting Group,Herding Group,0.84,False
+Leonberger,Cluster 7,Sporting Group,Working Group,0.54,False
+Lhasa Apso,Cluster 5,Hound Group,Non-Sporting Group,0.8,False
+Lowchen,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+Maltese,Cluster 5,Hound Group,Toy Group,0.8,False
+Manchester Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Mastiff,Cluster 3,Non-Sporting Group,Working Group,0.7,False
+Miniature American Shepherd,Cluster 4,Sporting Group,Herding Group,0.84,False
+Miniature Bull Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Miniature Pinscher,Cluster 2,Terrier Group,Toy Group,0.36,False
+Miniature Schnauzer,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Mudi,Cluster 2,Terrier Group,Herding Group,0.36,False
+Neapolitan Mastiff,Cluster 1,Working Group,Working Group,0.6,True
+Nederlandse Kooikerhondje,Cluster 2,Terrier Group,Sporting Group,0.36,False
+Newfoundland,Cluster 3,Non-Sporting Group,Working Group,0.7,False
+Norfolk Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Norwegian Buhund,Cluster 2,Terrier Group,Herding Group,0.36,False
+Norwegian Elkhound,Cluster 6,Sporting Group,Hound Group,0.76,False
+Norwegian Lundehund,Cluster 5,Hound Group,Non-Sporting Group,0.8,False
+Norwich Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Nova Scotia Duck Tolling Retriever,Cluster 4,Sporting Group,Sporting Group,0.84,True
+Old English Sheepdog,Cluster 7,Sporting Group,Herding Group,0.54,False
+Otterhound,Cluster 2,Terrier Group,Hound Group,0.36,False
+Papillon,Cluster 6,Sporting Group,Toy Group,0.76,False
+Parson Russell Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Pekingese,Cluster 5,Hound Group,Toy Group,0.8,False
+Pembroke Welsh Corgi,Cluster 6,Sporting Group,Herding Group,0.76,False
+Petit Basset Griffon Vendéen,Cluster 4,Sporting Group,Hound Group,0.84,False
+Pharaoh Hound,Cluster 2,Terrier Group,Hound Group,0.36,False
+Plott Hound,Cluster 2,Terrier Group,Hound Group,0.36,False
+Pointer,Cluster 6,Sporting Group,Sporting Group,0.76,True
+Polish Lowland Sheepdog,Cluster 6,Sporting Group,Herding Group,0.76,False
+Pomeranian,Cluster 5,Hound Group,Toy Group,0.8,False
+Poodle,Cluster 6,Sporting Group,Non-Sporting Group,0.76,False
+Portuguese Podengo Pequeno,Cluster 3,Non-Sporting Group,Hound Group,0.7,False
+Portuguese Water Dog,Cluster 6,Sporting Group,Working Group,0.76,False
+Pug,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Puli,Cluster 1,Working Group,Herding Group,0.6,False
+Pumi,Cluster 2,Terrier Group,Herding Group,0.36,False
+Pyrenean Shepherd,Cluster 6,Sporting Group,Herding Group,0.76,False
+Rat Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Redbone Coonhound,Cluster 7,Sporting Group,Hound Group,0.54,False
+Rhodesian Ridgeback,Cluster 3,Non-Sporting Group,Hound Group,0.7,False
+Rottweiler,Cluster 1,Working Group,Working Group,0.6,True
+Russell Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Russian Toy,Cluster 2,Terrier Group,Toy Group,0.36,False
+Saint Bernard,Cluster 3,Non-Sporting Group,Working Group,0.7,False
+Saluki,Cluster 5,Hound Group,Hound Group,0.8,True
+Samoyed,Cluster 6,Sporting Group,Working Group,0.76,False
+Schipperke,Cluster 2,Terrier Group,Non-Sporting Group,0.36,False
+Scottish Deerhound,Cluster 5,Hound Group,Hound Group,0.8,True
+Scottish Terrier,Cluster 1,Working Group,Terrier Group,0.6,False
+Sealyham Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Shetland Sheepdog,Cluster 4,Sporting Group,Herding Group,0.84,False
+Shiba Inu,Cluster 5,Hound Group,Non-Sporting Group,0.8,False
+Shih Tzu,Cluster 3,Non-Sporting Group,Toy Group,0.7,False
+Siberian Husky,Cluster 4,Sporting Group,Working Group,0.84,False
+Silky Terrier,Cluster 2,Terrier Group,Toy Group,0.36,False
+Skye Terrier,Cluster 5,Hound Group,Terrier Group,0.8,False
+Sloughi,Cluster 5,Hound Group,Hound Group,0.8,True
+Smooth Fox Terrier,Cluster 2,Terrier Group,Terrier Group,0.36,True
+Soft Coated Wheaten Terrier,Cluster 7,Sporting Group,Terrier Group,0.54,False
+Spanish Water Dog,Cluster 2,Terrier Group,Herding Group,0.36,False
+Spinone Italiano,Cluster 7,Sporting Group,Sporting Group,0.54,True
+Staffordshire Bull Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Standard Schnauzer,Cluster 6,Sporting Group,Working Group,0.76,False
+Sussex Spaniel,Cluster 1,Working Group,Sporting Group,0.6,False
+Swedish Vallhund,Cluster 7,Sporting Group,Herding Group,0.54,False
+Tibetan Mastiff,Cluster 1,Working Group,Working Group,0.6,True
+Tibetan Spaniel,Cluster 3,Non-Sporting Group,Non-Sporting Group,0.7,True
+Tibetan Terrier,Cluster 1,Working Group,Non-Sporting Group,0.6,False
+Toy Fox Terrier,Cluster 6,Sporting Group,Toy Group,0.76,False
+Treeing Walker Coonhound,Cluster 4,Sporting Group,Hound Group,0.84,False
+Vizsla,Cluster 4,Sporting Group,Sporting Group,0.84,True
+Weimaraner,Cluster 6,Sporting Group,Sporting Group,0.76,True
+Welsh Springer Spaniel,Cluster 7,Sporting Group,Sporting Group,0.54,True
+Welsh Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+West Highland White Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Whippet,Cluster 3,Non-Sporting Group,Hound Group,0.7,False
+Wire Fox Terrier,Cluster 6,Sporting Group,Terrier Group,0.76,False
+Wirehaired Pointing Griffon,Cluster 6,Sporting Group,Sporting Group,0.76,True
+Wirehaired Vizsla,Cluster 6,Sporting Group,Sporting Group,0.76,True
+Xoloitzcuintli,Cluster 2,Terrier Group,Non-Sporting Group,0.36,False
+Yorkshire Terrier,Cluster 6,Sporting Group,Toy Group,0.76,False
